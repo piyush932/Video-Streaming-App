@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+}
+
+.sidebar {
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4), 0 5px 5px rgba(0, 0, 0, 0.4);
+    margin-right: 1rem;
+}
+
+.sidebar-component{
+    padding: 1rem;
+}
+
+h6{
+    font-weight: bold;
+}
