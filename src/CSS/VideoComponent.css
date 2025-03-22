@@ -1,0 +1,4 @@
+.video-component{
+    display:flex;
+    flex-wrap: wrap;
+}

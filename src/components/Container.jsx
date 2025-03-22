@@ -1,11 +1,12 @@
 import React from 'react';
 import Tags from './Tags';
 import Videocomponent from './Videocomponent';
+import TagsList from './TagsList';
 
 function Container() {
   return (
     <div>
-        <Tags/>
+        <TagsList/>
         <Videocomponent/>
     </div>
   )

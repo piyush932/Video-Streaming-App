@@ -1,9 +1,12 @@
 import React from 'react';
+import '../CSS/Tags.css';
 
-function Tags() {
+function Tags({ item }) {
   return (
-    <div>Tags</div>
-  )
+    <div>
+      <button>{item}</button>
+    </div>
+  );
 }
 
 export default Tags;
