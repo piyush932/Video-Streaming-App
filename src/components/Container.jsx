@@ -1,6 +1,6 @@
 import React from 'react';
 import Tags from './Tags';
-import Videocomponent from './Videocomponent';
+import Videocomponent from './VideoComponent';
 import TagsList from './TagsList';
 
 function Container() {

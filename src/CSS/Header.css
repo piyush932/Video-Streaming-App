@@ -35,8 +35,12 @@
   height: 2rem;
 }
 
-.notification-icon{
-    height: 3rem;
+.moon-icon.sun-icon {
+  height: 1.75rem;
+}
+
+.notification-icon {
+  height: 3rem;
 }
 
 .search-container {
@@ -60,8 +64,32 @@
 }
 
 .create-button {
-    padding: 0.5rem;
-    border: 1px solid #ced4da;
-    background-color: #f7fafc;
-    border-radius: 1000px;
+  padding: 0.5rem;
+  border: 1px solid #ced4da;
+  background-color: #f7fafc;
+  border-radius: 1000px;
+}
+
+.dark-mode-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+.dark-mode-toggle button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.dark-mode-toggle button:hover {
+  transform: scale(1.1);
+}
+
+.theme-icon {
+  width: 24px;
+  height: 24px;
 }

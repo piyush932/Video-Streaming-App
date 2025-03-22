@@ -1,16 +1,15 @@
-import React from "react";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
+import React, { useContext } from "react";
 import "../CSS/Header.css";
 import { useDispatch } from "react-redux";
 import { toggleSidebar } from "../utils/SidebarSlice";
+import { ThemeContext } from "../context/ThemeContext";
 
 function Header() {
+  const { toggleTheme, theme } = useContext(ThemeContext);
   const dispatch = useDispatch();
-  const toggleSidebarHandler = ()=>{
+  const toggleSidebarHandler = () => {
     dispatch(toggleSidebar());
-  }
+  };
   return (
     <div className="header-container">
       <div className="flex">
@@ -21,11 +20,13 @@ function Header() {
           onClick={toggleSidebarHandler}
         />
         <div className="flex youtube-container">
-          <img
-            src="images/youtube.png"
-            alt="youtube-logo"
-            className="youtube-logo"
-          />
+          <a href="/">
+            <img
+              src="images/youtube.png"
+              alt="youtube-logo"
+              className="youtube-logo"
+            />
+          </a>
           <h2>Youtube</h2>
         </div>
       </div>
@@ -41,6 +42,19 @@ function Header() {
         />
       </div>
       <div className="flex">
+        <div className="dark-mode-toggle">
+          <button onClick={toggleTheme}>
+            <img
+              src={
+                theme === "light"
+                  ? "images/moon-icon.png"
+                  : "images/sun-icon.png"
+              }
+              alt="theme-icon"
+              className="theme-icon"
+            />
+          </button>
+        </div>
         <div>
           <button className="create-button">➕ Create</button>
         </div>
@@ -49,11 +63,7 @@ function Header() {
           alt="notification-icon"
           className="notification-icon"
         />
-        <img
-          src="images/user-icon.jpg"
-          alt="user-icon"
-          className="user-icon"
-        />
+        <img src="images/user-icon.jpg" alt="user-icon" className="user-icon" />
       </div>
     </div>
   );

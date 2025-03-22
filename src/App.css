@@ -1,14 +1,23 @@
-body{
+body {
   margin: 0;
   border: 0;
+  background-color: #ffffff;
+  color: #000000;
+  transition: background-color 0.3s, color 0.3s;
 }
 
-.flex{
+
+body.dark-mode {
+  background-color: #181818;
+  color: #ffffff;
+}
+
+.flex {
   display: flex;
   align-items: center;
   gap: 0.25rem;
 }
 
-.body-container{
+.body-container {
   display: flex;
 }
