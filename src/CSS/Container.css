@@ -1,0 +1,8 @@
+.main-container {
+  flex: 1; /* flex-1 */
+  display: flex; /* flex */
+  flex-direction: column; /* flex-col */
+  align-items: center; /* items-center */
+  gap: 1rem; /* gap-4 (4 * 0.25rem) */
+  width: 100%; /* w-full */
+}

@@ -1,6 +1,12 @@
-button{
-    padding: 0.5rem 1rem;
-    border: 1px solid #ced4da;
-    background-color: #f7fafc;
-    border-radius: 500px;
+button {
+  padding: 0.5rem 1rem; 
+  background-color: #f7fafc; 
+  border-radius: 500px; 
+  border: 1px solid #ced4da;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #d1d5db;
 }

@@ -1,9 +1,9 @@
 import React from 'react';
-import '../CSS/Tags.css';
+import '../../CSS/Tags.css';
 
 function Tags({ item }) {
   return (
-    <div>
+    <div >
       <button>{item}</button>
     </div>
   );

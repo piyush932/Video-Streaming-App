@@ -1,11 +1,11 @@
 import React from 'react';
 import Tags from './Tags';
-import '../CSS/TagsList.css'
+import '../../CSS/TagsList.css'
 
 function TagsList() {
   const tags = [
     "Gaming", "Songs", "Ipl", "News", "Luffy", "Zoro",
-    "Bleach", "React", "Java", "Frontend", "Backend","Rcb","Trains"
+    "Bleach", "React", "Java", "Frontend", "Backend","Rcb"
   ];
 
   return (

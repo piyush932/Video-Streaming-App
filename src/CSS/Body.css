@@ -1,0 +1,12 @@
+.body-container {
+    display: flex;
+    gap: 2rem; /* gap-16 (16 * 0.25rem) */
+    width: 100%; /* w-full */
+    height: 100%; /* h-full */
+    flex-direction: row; /* space-y-3 applies vertical spacing */
+  }
+  
+  .body-container > * + * {
+    margin-top: 0.75rem; /* space-y-3 (3 * 0.25rem) */
+  }
+  

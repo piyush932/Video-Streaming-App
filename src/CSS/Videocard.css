@@ -1,32 +1,79 @@
 .video-container {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start; 
-    align-items: center;
-    /* background: #f9f9f9; */
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 300px;
-    text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 300px;
+  max-height: 280px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
 
-.video-container img {
-    width: 100%;
-    border-radius: 8px;
+.thumbnail {
+  width: 100%;
+  border-radius: 8px;
+  height: 170px;
+  object-fit: cover;
+  margin-bottom: 0.25rem;
 }
 
-.video-details{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start; 
-    gap: 5px; 
-    width: max-content;
+.video-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  width: max-content;
+  width: 100%;
+}
+
+.title-card {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
 }
 
 .title-card h6 {
-    text-align: left; 
-    width: 100%; 
-    margin: 0;
-    padding: 5px 0; 
+  text-align: left;
+  width: 100%;
+  margin: 0;
+  padding: 5px 0;
+}
+
+.video-card-details {
+  display: flex;
+  gap: 1rem;
+}
+
+.video-details p,
+.video-details span {
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.video-container:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+body.dark-mode .video-container {
+  box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+
+body.dark-mode .video-container:hover {
+  box-shadow: 0 8px 16px rgba(255, 255, 255, 0.2);
+}
+
+.channel-logo{
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 100%;
+}
+
+.main-title{
+  display: flex;
+  gap: 0.5rem;
 }

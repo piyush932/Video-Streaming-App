@@ -1,4 +1,14 @@
-.tagslist{
-   display: flex;
-   gap: 1rem;
+.tagslist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 8px;
+  padding: 16px;
+  padding-left: 20px;
+}
+
+@media (min-width: 768px) {
+  .tagslist {
+    padding-left: 40px;
+  }
 }
