@@ -9,6 +9,7 @@ import Sidebar from "./components/Sidebar";
 import Watch from "./components/WatchPage/Watch.jsx";
 import Container from "./components/Container";
 import SearchresultsPage from "./components/Search/SearchresultPage.jsx"
+import Signin from "./pages/Signin.jsx";
 
 const bodyRouter = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ const bodyRouter = createBrowserRouter([
       {
         path: "search/:query",
         element: <SearchresultsPage />, 
+      },
+      {
+        path: "signin",
+        element: <Signin />, 
       },
     ],
   },

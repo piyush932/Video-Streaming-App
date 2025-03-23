@@ -34,9 +34,9 @@
   height: 2rem;
 }
 
-.moon-icon.sun-icon {
+/* .moon-icon.sun-icon {
   height: 1.75rem;
-}
+} */
 
 .notification-icon {
   height: 3rem;
@@ -91,6 +91,18 @@
 .theme-icon {
   width: 36px;
   height: 36px;
+}
+
+.user-button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0px;
+  transition: transform 0.2s ease-in-out
+}
+
+.user-button:hover {
+  transform: scale(1.05);
 }
 
 @media (max-width: 768px) {

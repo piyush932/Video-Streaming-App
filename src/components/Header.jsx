@@ -105,7 +105,9 @@ function Header() {
           alt="notification-icon"
           className="notification-icon"
         />
+        <button className="user-button" onClick={()=>navigate('/signin')}>
         <img src="images/user-icon.jpg" alt="user-icon" className="user-icon" />
+        </button>
       </div>
     </div>
   );
