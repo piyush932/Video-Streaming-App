@@ -1,17 +1,15 @@
 import React, { useEffect, useState } from "react";
-import { data } from "../../data/Api_data";
 import Videocard from "./Videocard";
 import "../../CSS/VideoComponent.css";
 import { Link } from "react-router-dom";
 import ShimmerUI from "../Shimmer-UI/ShimmerUI";
+import PopularVideosResponse from '../../data//MostPopular.json'
 
 function Videocomponent() {
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
-    setTimeout(() => {
       getVideos();
-    }, 2000);
   }, []);
 
   const getVideos = () => {
@@ -27,7 +25,7 @@ function Videocomponent() {
     // } catch (error) {
     //   console.error("Failed to fetch videos:", error);
     // }
-    setVideos(data.items);
+    setVideos(PopularVideosResponse.items);
   };
   return videos.length === 0 ? (
     <ShimmerUI />

@@ -1,9 +1,22 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useState } from "react";
 import "../CSS/Header.css";
 import { useDispatch } from "react-redux";
-import { toggleSidebar } from "../utils/SidebarSlice";
+import { toggleSidebar } from "../Redux/Reducers/SidebarSlice";
 import { ThemeContext } from "../context/ThemeContext";
 import { Link, useNavigate } from "react-router-dom";
+
+// React Icons
+import { FiMenu } from "react-icons/fi";
+import {
+  FaYoutube,
+  FaSearch,
+  FaMicrophone,
+  FaMoon,
+  FaSun,
+  FaPlus,
+  FaBell,
+  FaUser,
+} from "react-icons/fa";
 
 function Header() {
   const { toggleTheme, theme } = useContext(ThemeContext);
@@ -35,78 +48,73 @@ function Header() {
   //     console.error("Error fetching suggestions:", error);
   //   }
   // };
+  // 
+  // 
 
-  const handleSearch = ()=>{
+
+  const handleSearch = () => {
     if (searchQuery.trim() !== "") {
       navigate(`/search/${searchQuery}`);
     }
-  }
-  
+  };
 
   const toggleSidebarHandler = () => {
     dispatch(toggleSidebar());
   };
+
   return (
     <div className="header-container">
+      {/* Left Section: Sidebar Toggle & Logo */}
       <div className="flex">
-        <img
-          src="images/hamburger-menu.png"
-          alt="hamburger-menu"
-          className="hamburger-menu"
+        <FiMenu
+          className="hamburger-menu icon"
+          size={30}
           onClick={toggleSidebarHandler}
         />
-        <div className="flex youtube-container">
-          <Link href="/">
-            <img
-              src="images/youtube.png"
-              alt="youtube-logo"
-              className="youtube-logo"
-            />
+        <div className="flex">
+          <Link to="/">
+            <FaYoutube className="youtube-logo" color="red" size={36} />
           </Link>
-          <h2>Youtube</h2>
+          <h3>Youtube</h3>
         </div>
       </div>
+
+      {/* Middle Section: Search Bar */}
       <div className="search-container">
         <div className="search-input-container">
           <input
+            name="search-input"
             type="text"
             className="search-input"
             value={searchQuery}
             placeholder="Search"
-            onChange={(e)=>setSearchQuery(e.target.value)}
+            onChange={(e) => setSearchQuery(e.target.value)}
           />
-          <button className="search-button" onClick={handleSearch}>🔍</button>
-        </div>
-        <img
-          src="images/voice-icon.jpg"
-          alt="voice-icon"
-          className="voice-icon"
-        />
-      </div>
-      <div className="flex">
-        <div className="dark-mode-toggle">
-          <button onClick={toggleTheme}>
-            <img
-              src={
-                theme === "light"
-                  ? "images/moon-icon.png"
-                  : "images/sun-icon.png"
-              }
-              alt="theme-icon"
-              className="theme-icon"
-            />
+          <button className="search-button" onClick={handleSearch}>
+            <FaSearch className="search-icon" size={18} />
           </button>
         </div>
-        <div>
-          <button className="create-button">➕ Create</button>
-        </div>
-        <img
-          src="images/notification-icon.png"
-          alt="notification-icon"
-          className="notification-icon"
-        />
-        <button className="user-button" onClick={()=>navigate('/signin')}>
-        <img src="images/user-icon.jpg" alt="user-icon" className="user-icon" />
+        <FaMicrophone className="voice-icon icon" size={24} />
+      </div>
+
+      {/* Right Section: Theme Toggle, Create, Notifications, and User */}
+      <div className="flex">
+        <button className="dark-mode-toggle" onClick={toggleTheme}>
+          {theme === "light" ? (
+            <FaMoon className="theme-icon" size={28} />
+          ) : (
+            <FaSun className="theme-icon" size={28} />
+          )}
+        </button>
+
+        <button className="create-button">
+          <FaPlus /> Create
+        </button>
+
+        <FaBell className="notification-icon icon" size={30} />
+
+        <button className="user-button" onClick={() => navigate("/signin")}>
+          <FaUser className="user-icon icon" size={30} />
         </button>
       </div>
     </div>

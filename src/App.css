@@ -4,6 +4,7 @@ body {
   background-color: #ffffff;
   color: #000000;
   transition: background-color 0.3s, color 0.3s;
+  padding-top: 60px;
 }
 
 body.dark-mode {
@@ -17,9 +18,17 @@ body.dark-mode {
   gap: 0.25rem;
 }
 
-a{
+a {
   text-decoration: none;
   color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .w-full {

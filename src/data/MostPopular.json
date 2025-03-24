@@ -1,4 +1,4 @@
-export const data = {
+{
     "kind": "youtube#videoListResponse",
     "etag": "_pfwztewPFlMzcr9IQLKCXVGP4o",
     "items": [

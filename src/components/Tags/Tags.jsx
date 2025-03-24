@@ -1,10 +1,12 @@
 import React from 'react';
 import '../../CSS/Tags.css';
+import { useNavigate } from 'react-router-dom';
 
 function Tags({ item }) {
+  const navigate = useNavigate();
   return (
     <div >
-      <button>{item}</button>
+      <button onClick={()=>navigate(`/search/${item}`)}>{item}</button>
     </div>
   );
 }

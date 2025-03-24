@@ -1,7 +1,6 @@
 .tagslist {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
   gap: 8px;
   padding: 16px;
   padding-left: 20px;

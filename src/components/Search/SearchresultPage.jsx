@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import "../../CSS/SearchresultPage.css";
 import SearchresultCard from "./SearchresultCard";
+import Loading from "../Loading";
 
 const SearchResultsPage = () => {
   const { query } = useParams();
@@ -17,6 +18,7 @@ const SearchResultsPage = () => {
           throw new Error("Failed to fetch search results");
         }
         const data = await response.json();
+        console.log(data);
         setVideos(data.items);
       } catch (error) {
         console.error("Error fetching search results:", error);
@@ -34,9 +36,9 @@ const SearchResultsPage = () => {
           videos.map((video,id) => (
             <SearchresultCard key={id} info={video} />
           ))
-        ) : (
-          <p>No results found.</p>
-        )}
+        ) : 
+          <Loading/>
+        }
       </div>
     </div>
   );

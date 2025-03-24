@@ -1,0 +1,14 @@
+.comment-card {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .replies-container {
+    padding-left: 50px; /* Equivalent to px-14 */
+  }
+  
+  .reply-item {
+    margin-top: 5px;
+  }
+  

@@ -1,17 +1,25 @@
-ul{
-    list-style: none;
-}
-
 .sidebar {
-    border: 1px solid black;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.4), 0 5px 5px rgba(0, 0, 0, 0.4);
-    margin-right: 1rem;
+  color: white;
 }
 
-.sidebar-component{
-    padding: 1rem;
+.sidebar-menu {
+  padding: 0;
+  list-style-type: none;
 }
 
-h6{
-    font-weight: bold;
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 10px;
+  cursor: pointer;
+  color: grey;
+}
+
+.sidebar-item:hover {
+  background-color: #202020;
+}
+
+.icon {
+  font-size: 20px;
 }

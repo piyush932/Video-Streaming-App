@@ -64,8 +64,8 @@ function Videocard({ info }) {
           <div className="flex video-details">
             <span>{channelTitle}</span>
             <div className="video-card-details">
-              <p>{formatViews(viewCount)}</p>
-              <p>{timeAgo(publishedAt)}</p>
+              <span>{formatViews(viewCount)}</span>
+              <span>{timeAgo(publishedAt)}</span>
             </div>
           </div>
         </div>

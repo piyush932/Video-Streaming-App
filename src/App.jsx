@@ -1,13 +1,13 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Header from "./components/Header";
-import Body from "./components/Body";
+import Body from "./pages/Body.jsx";
 import { Provider } from "react-redux";
-import store from "./utils/Store.jsx";
+import store from "./Redux/Store.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
-import Watch from "./components/WatchPage/Watch.jsx";
-import Container from "./components/Container";
+import Watch from "./pages/Watch.jsx";
+import Container from "./pages/Container.jsx";
 import SearchresultsPage from "./components/Search/SearchresultPage.jsx"
 import Signin from "./pages/Signin.jsx";
 

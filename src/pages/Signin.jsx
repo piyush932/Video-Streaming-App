@@ -8,7 +8,7 @@ const Signin = () => {
       <div className="content">
         <div className="left-section">
           <Link className="logo">
-            <span className="highlight">Sign IN</span>
+            <span className="highlight">Sign In</span>
           </Link>
           <p className="description">
            You can sign in with your email and password

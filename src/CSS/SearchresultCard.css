@@ -1,68 +1,102 @@
-/* Search Video Card Layout */
+/* Container for search results */
+.search-results-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 15px;
+  align-items: stretch; /* Ensures all cards align */
+}
+
+/* Individual video card */
 .search-video-card {
-    display: flex;
-    gap: 15px;
-    padding: 10px;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    transition: background-color 0.3s;
-  }
-  
-  /* Dark Mode */
-  body.dark-mode .search-video-card {
-    background-color: #282828;
-  }
-  
-  /* Thumbnail Styling */
-  .thumbnail-container {
-    flex: 1;
-    max-width: 180px;
-  }
-  
-  .video-thumbnail {
-    width: 100%;
-    height: auto;
-    border-radius: 6px;
-  }
-  
-  /* Video Info */
-  .video-info {
-    flex: 2;
-    display: flex;
+  display: flex;
+  gap: 15px;
+  transition: transform 0.2s ease-in-out;
+  text-decoration: none;
+  color: inherit;
+  min-height: 120px; /* Ensures equal height */
+  padding: 10px;
+  border-radius: 8px;
+  background-color: #fff; /* Light mode background */
+}
+
+.search-video-card:hover {
+  transform: scale(1.01);
+}
+
+/* Thumbnail styling */
+.thumbnail-container {
+  position: relative;
+  min-width: fit-content;
+}
+
+.video-thumbnail {
+  width: 200px;
+  height: 112px; /* 16:9 aspect ratio */
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+/* Video info section */
+.video-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex: 1; /* Ensures equal width distribution */
+}
+
+/* Video title */
+.video-title {
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/* Channel name */
+.video-channel {
+  font-size: 0.9rem;
+  color: gray;
+}
+
+/* Video description */
+.video-description {
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 5px;
+}
+
+/* Video time */
+.video-time {
+  font-size: 0.8rem;
+  color: gray;
+  margin-top: 3px;
+}
+
+/* Dark Mode Support */
+body.dark-mode .search-video-card {
+  background-color: #222;
+  color: white;
+}
+
+body.dark-mode .video-channel,
+body.dark-mode .video-description,
+body.dark-mode .video-time {
+  color: #aaa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .search-results-container {
     flex-direction: column;
+    align-items: center;
   }
-  
-  .video-title {
-    font-size: 16px;
-    font-weight: bold;
-    margin-bottom: 5px;
+
+  .search-video-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
-  
-  .video-channel {
-    font-size: 14px;
-    color: #606060;
+
+  .video-info {
+    align-items: center;
   }
-  
-  .video-description {
-    font-size: 13px;
-    color: #404040;
-    margin-top: 5px;
-  }
-  
-  .video-time {
-    font-size: 12px;
-    color: #888;
-    margin-top: 5px;
-  }
-  
-  /* Dark Mode Adjustments */
-  body.dark-mode .video-title {
-    color: #ffffff;
-  }
-  
-  body.dark-mode .video-channel,
-  body.dark-mode .video-description,
-  body.dark-mode .video-time {
-    color: #b3b3b3;
-  }
-  
+}

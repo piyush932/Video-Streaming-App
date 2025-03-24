@@ -1,0 +1,30 @@
+/* Comments Container */
+.comments-container {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px;
+  }
+  
+  /* Heading */
+  .comments-heading {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  /* Comment Button */
+  .load-more-btn {
+    color: gray;
+    font-size: 14px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .load-more-btn:hover {
+    color: black;
+    text-decoration: underline;
+  }
+  
