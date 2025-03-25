@@ -1,22 +1,22 @@
 .search-results-container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 20px;
-  }
-  
-  .search-results-container h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-  }
-  
-  .search-results-container span {
-    color: #ff0000;
-    font-weight: bold;
-  }
-  
-  .video-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-  }
-  
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+.search-results-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.search-results-container span {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.search-video-list {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  gap: 20px;
+}

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link,useParams } from "react-router-dom";
 import "../CSS/SearchresultPage.css";
 import SearchresultCard from "../components/SearchResultCard/SearchresultCard";
 import Loading from "../components/Loading/Loading";
@@ -10,7 +10,7 @@ const SearchResultsPage = () => {
   const API_KEY = import.meta.env.VITE_GOOGLE_API;
   const YOUTUBE_SEARCH_API = `${
     import.meta.env.VITE_YOUTUBE_SEARCH_API
-  }=${query}&maxResults=5&key=${API_KEY}&regionCode=IN`;
+  }=${query}&maxResults=10&key=${API_KEY}&regionCode=IN`;
 
   useEffect(() => {
     const fetchSearchResults = async () => {
@@ -34,9 +34,13 @@ const SearchResultsPage = () => {
       <h2>
         Search results for: <span>{query}</span>
       </h2>
-      <div className="video-list">
+      <div className="search-video-list">
         {videos.length > 0 ? (
-          videos.map((video, id) => <SearchresultCard key={id} info={video} />)
+          videos.map((video) => (
+            <Link to={`/watch/?v=${video.id.videoId}`}>
+              <SearchresultCard key={video.id.videoId} info={video} />
+            </Link>
+          ))
         ) : (
           <Loading />
         )}

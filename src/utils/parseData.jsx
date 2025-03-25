@@ -3,7 +3,7 @@ export const parseVideos = (items) => {
         videoId: item.id,
         videoTitle: item.snippet.title,
         videoDescription: item.snippet.description,
-        videoThumbnail: item.snippet.thumbnails.standard?.url || item.snippet.thumbnails.default?.url,
+        videoThumbnail: item.snippet.thumbnails.high?.url || item.snippet.thumbnails.medium?.url,
         videoDuration: item.contentDetails.duration,
         videoViews: item.statistics.viewCount,
         videoLikes: item.statistics.likeCount,
@@ -14,15 +14,6 @@ export const parseVideos = (items) => {
         }
     }));
 };
-
-// export const parseChannelPlaylists = (items) => {
-//     return items.map((item) => ({
-//         id: item.id,
-//         title: item.snippet.title,
-//         thumbnail: item.snippet.thumbnails.high?.url || item.snippet.thumbnails.standard?.url,
-//         videoCount: item.contentDetails.itemCount
-//     }));
-// };
 
 export const parseComments = (items) => {
     return items.map((comment) => ({

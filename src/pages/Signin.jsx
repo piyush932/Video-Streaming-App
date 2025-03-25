@@ -1,18 +1,16 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import '../CSS/Signin.css'
+import "../CSS/Signin.css";
 
 const Signin = () => {
   return (
     <div className="container">
       <div className="content">
         <div className="left-section">
-          <Link className="logo">
+          <div className="logo">
             <span className="highlight">Sign In</span>
-          </Link>
+          </div>
           <p className="description">
-           You can sign in with your email and password
-            or with Google.
+            You can sign in with your email and password or with Google.
           </p>
         </div>
 
@@ -26,13 +24,15 @@ const Signin = () => {
               <label>Your Password</label>
               <input type="password" placeholder="****" id="password" />
             </div>
-            <button type="submit" className="submit-btn">Sign In</button>
+            <button type="submit" className="submit-btn">
+              Sign In
+            </button>
             <button className="google-btn">Sign in with Google</button>
           </div>
 
           <div className="signup-text">
             <span>Don't have an account?</span>
-            <Link  className="signup-link">Sign Up</Link>
+            <div className="signup-link">Sign Up</div>
           </div>
         </div>
       </div>

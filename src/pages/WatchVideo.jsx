@@ -49,7 +49,7 @@ export default Watch;
 
 
 
-
+//In case of using Api
 // useEffect(() => {
 //   dispatch(closeSidebar());
 // fetchVideoDetails();
