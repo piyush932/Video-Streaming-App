@@ -1,7 +1,7 @@
 import React from 'react';
-import Tags from '../components/Tags/Tags';
+import Tags from '../components/Tags-Container/Tags';
 import Videocomponent from '../components/Videos-Container/VideoComponent';
-import TagsList from '../components/Tags/TagsList';
+import TagsList from '../components/Tags-Container/TagsList';
 import '../CSS/Container.css'
 
 function Container() {

@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import CommentBody from "./CommentBody";
 import { getCommentReplies } from "../../utils/api";
 import { parseReplies } from "../../utils/parseData";
-import "../../CSS/CommentCard.css"; 
+import "./CommentCard.css"; 
 import repliesResponse from '../../data/CommentListResponse.json';
 
 const repliesData = parseReplies(repliesResponse.items);

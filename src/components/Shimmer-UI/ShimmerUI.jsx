@@ -1,4 +1,4 @@
-import '../../CSS/ShimmerUI.css'
+import './ShimmerUI.css'
 
 const ShimmerUI = () => {
     return (

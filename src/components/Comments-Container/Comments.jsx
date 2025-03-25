@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import Commentcard from "./Commentcard";
 import { parseComments } from "../../utils/parseData";
-import "../../CSS/Comments.css";
+import "./Comments.css";
 import commentsResponse from '../../data/CommentsThreadList.json';
 // import { getVideoComments } from "../utils/api";
 

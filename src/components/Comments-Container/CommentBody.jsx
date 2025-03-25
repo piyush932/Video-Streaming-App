@@ -1,6 +1,6 @@
 import React from "react";
 import { BiLike } from "react-icons/bi";
-import "../../CSS/CommentBody.css"; 
+import "./CommentBody.css"; 
 
 function CommentBody({ item }) {
   return (

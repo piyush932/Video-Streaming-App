@@ -1,6 +1,6 @@
 import React from 'react';
 import Tags from './Tags';
-import '../../CSS/TagsList.css'
+import './TagsList.css'
 
 function TagsList() {
   const tags = [

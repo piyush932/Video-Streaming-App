@@ -1,8 +1,8 @@
 import React, { useContext, useState } from "react";
-import "../CSS/Header.css";
+import "./Header.css";
 import { useDispatch } from "react-redux";
-import { toggleSidebar } from "../Redux/Reducers/SidebarSlice";
-import { ThemeContext } from "../context/ThemeContext";
+import { toggleSidebar } from "../../Redux/Reducers/SidebarSlice";
+import { ThemeContext } from "../../context/ThemeContext";
 import { Link, useNavigate } from "react-router-dom";
 
 // React Icons

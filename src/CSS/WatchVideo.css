@@ -1,18 +1,15 @@
-/* Main container */
 .main-watch-container {
   width: 95%;
   margin: auto;
   margin-top: 20px;
 }
 
-/* Watch page layout */
 .watch-container {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
 
-/* Video section */
 .video-section {
   width: 100%;
   display: flex;
@@ -20,7 +17,6 @@
   gap: 15px;
 }
 
-/* Video player */
 .video-frame {
   width: 100%;
   aspect-ratio: 16 / 9;
@@ -33,14 +29,12 @@
   transform: scale(1.02);
 }
 
-/* Suggested videos */
 .suggested-videos {
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
-/* Responsive design */
 @media (min-width: 768px) {
   .watch-container {
     flex-direction: row;
@@ -50,5 +44,25 @@
   }
   .suggested-videos {
     width: 30%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .comments-container {
+    display: none !important;
+  }
+
+  .watch-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .suggested-videos {
+    order: 2;
+    margin-top: 20px;
+  }
+
+  .video-section {
+    order: 1;
   }
 }

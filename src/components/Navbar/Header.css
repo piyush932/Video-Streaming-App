@@ -1,5 +1,5 @@
 .header-container {
-  position: fixed;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
@@ -37,19 +37,32 @@ body.dark-mode .header-container {
   align-items: center;
 }
 
+.search-input-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid #555;
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #181818;
+}
+
 .search-input {
-  border: 1px solid #ced4da;
-  padding: 0.5rem;
-  border-top-left-radius: 1000px;
-  border-bottom-left-radius: 1000px;
+  padding: 8px 12px;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: white;
+  width: 250px;
 }
 
 .search-button {
-  padding: 0.5rem;
-  border: 1px solid #ced4da;
-  background-color: #f7fafc;
-  border-top-right-radius: 1000px;
-  border-bottom-right-radius: 1000px;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.search-button:hover {
+  background: #333;
 }
 
 /* Create Button */

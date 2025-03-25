@@ -1,5 +1,5 @@
 import React from "react";
-import "../../CSS/SearchresultCard.css";
+import "./SearchresultCard.css";
 
 function timeAgo(isoString) {
   const time = new Date(isoString);

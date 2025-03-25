@@ -1,5 +1,5 @@
 import React from "react";
-import "../../CSS/Videocard.css";
+import "./Videocard.css";
 
 function timeAgo(isoString) {
   const time = new Date(isoString);

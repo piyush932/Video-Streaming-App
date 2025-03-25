@@ -1,24 +1,19 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import Header from "./components/Header";
-import Body from "./pages/Body.jsx";
 import { Provider } from "react-redux";
 import store from "./Redux/Store.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Sidebar from "./components/Sidebar";
-import Watch from "./pages/Watch.jsx";
+import WatchVideo from "./pages/WatchVideo.jsx";
 import Container from "./pages/Container.jsx";
-import SearchresultsPage from "./components/Search/SearchresultPage.jsx"
+import SearchresultsPage from "./pages/SearchresultPage.jsx"
 import Signin from "./pages/Signin.jsx";
+import Layout from "./pages/Layout.jsx";
 
 const bodyRouter = createBrowserRouter([
   {
     path: "/",
     element: (
-      <div>
-        <Header />
-        <Body />
-      </div>
+      <Layout/>
     ),
     children: [
       {
@@ -27,7 +22,7 @@ const bodyRouter = createBrowserRouter([
       },
       {
         path: "watch",
-        element: <Watch />,
+        element: <WatchVideo />,
       },
       {
         path: "search/:query",

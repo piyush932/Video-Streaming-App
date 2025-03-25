@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
 import Videocard from "./Videocard";
-import "../../CSS/VideoComponent.css";
+import "./VideoComponent.css";
 import { Link } from "react-router-dom";
 import ShimmerUI from "../Shimmer-UI/ShimmerUI";
-import PopularVideosResponse from '../../data//MostPopular.json'
+import PopularVideosResponse from '../../data/MostPopularVideos2.json'
+// import PopularVideosResponse from '../../data/MostPopular.json'
 
 function Videocomponent() {
   const [videos, setVideos] = useState([]);
