@@ -24,36 +24,16 @@ function Header() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
 
-  // useEffect(()=>{
-  //   const timer = setTimeout(()=>getSearchSuggestions(),300);
-
-  //   return ()=>{
-  //     clearTimeout(timer);
-  //   }
-  // },[searchQuery]);
-
-  // const getSearchSuggestions = async () => {
-  //   try {
-  //     const response = await fetch(
-  //       `${import.meta.env.VITE_YOUTUBE_SEARCH_API}?part=snippet&q=${searchQuery}&key=${import.meta.env.VITE_GOOGLE_API}&type=video`
-  //     );
-
-  //     if (!response.ok) {
-  //       throw new Error(`HTTP error! Status: ${response.status}`);
-  //     }
-
-  //     const data = await response.json();
-  //     console.log(data);
-  //   } catch (error) {
-  //     console.error("Error fetching suggestions:", error);
-  //   }
-  // };
-  //
-  //
-
   const handleSearch = () => {
     if (searchQuery.trim() !== "") {
       navigate(`/search/${searchQuery}`);
+      setSearchQuery("");
+    }
+  };
+
+  const handleKeyDown = (e) => {
+    if (e.key === "Enter") {
+      handleSearch();
     }
   };
 
@@ -88,6 +68,7 @@ function Header() {
             value={searchQuery}
             placeholder="Search"
             onChange={(e) => setSearchQuery(e.target.value)}
+            onKeyDown={handleKeyDown}
           />
           <button className="search-button" onClick={handleSearch}>
             <FaSearch className="search-icon" size={18} />
@@ -121,3 +102,33 @@ function Header() {
 }
 
 export default Header;
+
+//In case of using Api
+// useEffect(()=>{
+  //   const timer = setTimeout(()=>getSearchSuggestions(),300);
+  //Debouncing
+
+  //   return ()=>{
+  //     clearTimeout(timer);
+  //   }
+  // },[searchQuery]);
+
+  // const getSearchSuggestions = async () => {
+  //   try {
+  //     const response = await fetch(
+  //       `${import.meta.env.VITE_YOUTUBE_SEARCH_API}?part=snippet&q=${searchQuery}&key=${import.meta.env.VITE_GOOGLE_API}&type=video`
+  //     );
+
+  //     if (!response.ok) {
+  //       throw new Error(`HTTP error! Status: ${response.status}`);
+  //     }
+
+  //     const data = await response.json();
+  //     console.log(data);
+  //   } catch (error) {
+  //     console.error("Error fetching suggestions:", error);
+  //   }
+  // };
+  //
+  //
+

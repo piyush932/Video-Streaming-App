@@ -1,6 +1,4 @@
-// Channel.jsx
 import { useState, useEffect } from "react";
-import axios from "axios";
 import { useParams } from "react-router-dom";
 import { useChannel } from "../Hooks/useChannel";
 import { AiOutlineClose } from "react-icons/ai";
@@ -14,11 +12,9 @@ function Channel() {
   const { channelId } = useParams();
   const {
     category,
-    setCategory,
     channelInfo,
     fetchChannelInfo,
     channelVideoList,
-    channelPlayLists,
     fetchChanneldata,
     hasMore,
   } = useChannel();

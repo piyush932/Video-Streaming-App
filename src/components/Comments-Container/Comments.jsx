@@ -11,6 +11,23 @@ const commentsData = parseComments(items);
 function Comments({ videoId }) {
   const [commentList, setCommentList] = useState({ comments: commentsData, nextPageToken: null });
 
+  return (
+    <div className="comments-container">
+      <h5 className="comments-heading">Comments</h5>
+      {commentList.comments.map((comment, index) => (
+        <Commentcard key={index} comment={comment} />
+      ))}
+      <button className="load-more-btn">
+        Show more...
+      </button>
+    </div>
+  );
+}
+
+export default Comments;
+
+
+//In case of using Api
 //   useEffect(() => {
 //     const fetchComments = async () => {
 //       try {
@@ -34,18 +51,3 @@ function Comments({ videoId }) {
 //       fetchComments();
 //     }
 //   }, [videoId]);
-
-  return (
-    <div className="comments-container">
-      <h5 className="comments-heading">Comments</h5>
-      {commentList.comments.map((comment, index) => (
-        <Commentcard key={index} comment={comment} />
-      ))}
-      <button className="load-more-btn">
-        Show more...
-      </button>
-    </div>
-  );
-}
-
-export default Comments;

@@ -3,6 +3,7 @@ import { Link, useSearchParams } from "react-router-dom";
 import Videocard from "./Videocard";
 import "./VideoComponent.css";
 import ShimmerUI from "../Shimmer-UI/ShimmerUI";
+import { fetchVideosWithChannels } from "../../utils/videoDetailsHelper";
 
 // Importing all JSON response lists
 import PopularVideosResponse from "../../data/MostPopularVideos2.json";
@@ -53,8 +54,10 @@ function Videocomponent() {
     }
 
     setLoading(true);
-    const timer = setTimeout(() => {
-      setVideos(selectedVideos);
+    const timer = setTimeout(async () => {
+      // setVideos(selectedVideos);
+      const data = await fetchVideosWithChannels(selectedVideos);
+      setVideos(data);
       setLoading(false);
     }, 1000);
 
@@ -66,8 +69,8 @@ function Videocomponent() {
   ) : (
     <div className="video-component">
       <div className="video-list">
-        {videos.map((item, id) => (
-          <Link to={`/watch?v=${item.id}`} key={id}>
+        {videos.map((item) => (
+          <Link to={`/watch?v=${item.videoId}`} key={item.videoId}>
             <Videocard info={item} />
           </Link>
         ))}

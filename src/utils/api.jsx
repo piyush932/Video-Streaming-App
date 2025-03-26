@@ -56,3 +56,8 @@ export const getActvitiesVideos = async (videoIds) => {
   return response.data;
 };
 
+export const getSearchResults = async(query)=>{
+  const url = `${BASE_URL}=${query}&maxResults=10&key=${API_KEY}&regionCode=IN`;
+  const response = await axios.get(url);
+  return response;
+}
