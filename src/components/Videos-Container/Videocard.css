@@ -6,13 +6,6 @@
   width: 100%;
 }
 
-/* Responsive Grid for Tablets & Mobile */
-@media (min-width: 600px) and (max-width: 1024px) {
-  .video-list {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 .video-container {
   display: flex;
   flex-direction: column;
@@ -73,7 +66,6 @@
   cursor: pointer;
 }
 
-/* Dark Mode */
 body.dark-mode .video-container {
   box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 }
@@ -91,4 +83,10 @@ body.dark-mode .video-container:hover {
 .main-title {
   display: flex;
   gap: 0.5rem;
+}
+
+@media (min-width: 600px) and (max-width: 1024px) {
+  .video-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

@@ -16,7 +16,7 @@
 }
 
 /* Video Title */
-.video-title {
+.watchvideo-title {
   font-size: 1.5rem;
   font-weight: bold;
   margin-bottom: 10px;
@@ -96,4 +96,10 @@
 /* Dark Mode - Toggle Button */
 .dark-mode .toggle-btn {
   color: #3ea6ff;
+}
+
+.watch-channel-image{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
 }

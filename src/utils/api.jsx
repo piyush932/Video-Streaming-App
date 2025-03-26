@@ -37,3 +37,22 @@ export const getCommentReplies = async (commentId) => {
     return [];
   }
 };
+
+export const getChannelInfo = async (channelId, channelIds) => {
+  const url = `${BASE_URL}/v3/channels?key=${API_KEY}&part=snippet,contentDetails,statistics&id=${channelId ? channelId : channelIds.join(",")}`;
+  const response = await axios.get(url);
+  return response.data.items;
+};
+
+export const getActivities = async (channelId, pageToken) => {
+  const url = `${BASE_URL}/v3/activities?key=${API_KEY}&part=snippet,contentDetails&channelId=${channelId}${pageToken ? `&pageToken=${pageToken}` : ``}&maxResults=20`;
+  const response = await axios.get(url);
+  return response.data;
+};
+
+export const getActvitiesVideos = async (videoIds) => {
+  const url = `${BASE_URL}/v3/videos?key=${API_KEY}&part=snippet,contentDetails,statistics&id=${videoIds}`;
+  const response = await axios.get(url);
+  return response.data;
+};
+

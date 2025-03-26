@@ -1,0 +1,1701 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "-xfaYYiqnkGSw9NMw_LWGTsN_q0",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "54HA73NyyaemNpcbeOfrDLT7XjA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k0Lcljg2OtE"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T05:30:16Z",
+          "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+          "title": "Top 50 News Today: 11 बजे की बड़ी खबरें | Delhi Budget 2025 | Meerut Murder Case | CM Rekha Gupta",
+          "description": "Top 50 News Today: 11 बजे की बड़ी खबरें | Delhi Budget 2025 | Meerut Murder Case | CM Rekha Gupta ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k0Lcljg2OtE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k0Lcljg2OtE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k0Lcljg2OtE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Zee News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T05:30:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EXMZ97u50OcC_y6ZP0zI5CX-KqY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lf3DGBhZ_Bo"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-23T14:55:01Z",
+          "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+          "title": "Muskan Rastogi News | Police Reveal Chilling Post-Mortem Report: &#39;Head, Wrists Detached From Body&#39;",
+          "description": "Antriksh Jain (ASP Meerut) revealed chilling details after post-mortem report in the Saurabh Rajput murder case. Report mentions ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lf3DGBhZ_Bo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lf3DGBhZ_Bo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lf3DGBhZ_Bo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NDTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-23T14:55:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oSyrLlffjoDMY8IosWcu1nYfWHY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4el2VhIpyD0"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-23T14:28:20Z",
+          "channelId": "UCttspZesZIDEwwpVIgoZtWQ",
+          "title": "Meerut Muskan Rastogi News LIVE: पलट गया साहिल! फंस गई मुस्कान! अब फांसी?",
+          "description": "What Muskan told the police during interrogation is shocking. How Muskan, along with her lover, chopped her husband into ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4el2VhIpyD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4el2VhIpyD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4el2VhIpyD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "IndiaTV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-23T14:28:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Nzcghp4oFTVjHGkEp0FVzaOK5jM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cCx5kgTeymE"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T16:12:54Z",
+          "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+          "title": "LIVE: NBC News NOW - March 26",
+          "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cCx5kgTeymE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cCx5kgTeymE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cCx5kgTeymE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NBC News",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-25T16:12:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C5_cnda29yEKdcDWiXn5crNxugo",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCeY0bbntWzzVIaj2z3QigXg"
+        },
+        "snippet": {
+          "publishedAt": "2006-07-19T20:46:03Z",
+          "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+          "title": "NBC News",
+          "description": "NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and engaging news ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "NBC News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2006-07-19T20:46:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AtDgyTYQmVvl2XAlx82T1y7xYZU",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UC16niRr50-MSBwiO3YDb3RA"
+        },
+        "snippet": {
+          "publishedAt": "2006-04-08T05:51:05Z",
+          "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+          "title": "BBC News",
+          "description": "Welcome to the official BBC News YouTube channel. Interested in global news with an impartial perspective? Want to see ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "BBC News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2006-04-08T05:51:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hq7ixa42QJjaErR1rGOxz6HaU4o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cxy7KPz_zuk"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T07:42:42Z",
+          "channelId": "UCvkzV7GvijoHwFCZALwSY-Q",
+          "title": "Pastor Praveen Pagadala Postmortem Report | రాజమండ్రి నుంచి ప్రత్యక్ష ప్రసారం | Rajahmundry News",
+          "description": "Watch ▻ Pastor Praveen Pagadala Postmortem Report | రాజమండ్రి నుంచి ప్రత్యక్ష ప్రసారం ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cxy7KPz_zuk/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cxy7KPz_zuk/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cxy7KPz_zuk/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SumanTV Tirupati",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T07:42:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vMad85qIPgJwKQQwb-0kmiHdH1E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WC8a_CEZCTg"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T01:22:46Z",
+          "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
+          "title": "இடியாய் அமைந்த மனோஜ் பாரதி ராஜாவின் மரணம்.. உடலை பார்த்து கதறி துடித்து அழுத தாய்..",
+          "description": "இடியாய் அமைந்த மனோஜ் பாரதி ராஜாவின் மரணம்.. உடலை பார்த்து கதறி ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WC8a_CEZCTg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WC8a_CEZCTg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WC8a_CEZCTg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Polimer News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T01:22:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fojL0kcnFrazqgGWG1MHuyqS7Rw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uvKCAL2jW7s"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T17:14:17Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "හිරු රාත්\u200dරී 9.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 9:55 PM LIVE | 2025-03-25",
+          "description": "හිරු රාත්\u200dරී 9.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 9:55 PM LIVE | 2025-03-25 | Hiru ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uvKCAL2jW7s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uvKCAL2jW7s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uvKCAL2jW7s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T17:14:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "niL-Sx2R5DDKBsOJ1DCJBwmOANs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Z7lojietIG4"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T03:51:36Z",
+          "channelId": "UCdOSeEq9Cs2Pco7OCn2_i5w",
+          "title": "Maharashtra Assembly | विधानसभा कामकाज लाईव्ह | tv9 Marathi",
+          "description": "महाराष्ट्रासह जगभरातल्या बातम्या सर्वात वेगवान पाहण्यासाठी आताच ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z7lojietIG4/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z7lojietIG4/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z7lojietIG4/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TV9 Marathi",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T03:51:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TgdniMFWbr02FenghA6Eid5UTro",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Jw1oERu_Qyk"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T07:32:31Z",
+          "channelId": "UCCK3OZi788Ok44K97WAhLKQ",
+          "title": "අද දෙරණ 12.00 මධ්\u200dයාහ්න පුවත් විකාශය - 2025.03.26 | Ada Derana Midday Prime  News Bulletin",
+          "description": "Ada Derana | ශ්\u200dරී ලංකාවේ විශ්වසනීය හා ප්\u200dරමුඛතම පුවත් සපයන්නා #AdaDerana #News ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jw1oERu_Qyk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jw1oERu_Qyk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jw1oERu_Qyk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ada Derana",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T07:32:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ndvpNqUU_l82FDU1KXHKTZfBtd8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5X7oLxuTVug"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T02:27:06Z",
+          "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+          "title": "AO VIVO: Acompanhe as principais notícias do dia na Record News",
+          "description": "Inscreva-se no canal da Record News no YouTube: http://www.youtube.com/recordnews ACOMPANHE A RECORD NEWS ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5X7oLxuTVug/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5X7oLxuTVug/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5X7oLxuTVug/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Record News",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T02:27:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iUTevU51g7hmASBXj61UYLm8duM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DRIj7Nb-Npc"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T09:28:43Z",
+          "channelId": "UCNUFterLJ9vpFZZ0try7sLA",
+          "title": "দুপুরের সময় | দুপুর ২টা | ২৬ মার্চ ২০২৫ | Somoy TV Bulletin  2pm | Latest Bangladeshi News",
+          "description": "independenceday #politicalnews #chief_adviser #eidjatra #somoytvbulletin দুপুরের সময় | দুপুর ২টা | ২৬ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DRIj7Nb-Npc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DRIj7Nb-Npc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DRIj7Nb-Npc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SOMOY TV Bulletin",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T09:28:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "X4h_gT97DdJs0jp0jpxi8rF6mGE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tce0Y2Ys4S0"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T09:00:11Z",
+          "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+          "title": "Meerut Saurabh Rajput Big News Update LIVE: जेल में अचानक बेकाबू हुई मुस्कान! कैदियों में भगदड़!",
+          "description": "Meerut Saurabh Rajput Big News Update LIVE: जेल में अचानक बेकाबू हुई मुस्कान! कैदियों ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tce0Y2Ys4S0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tce0Y2Ys4S0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tce0Y2Ys4S0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Zee News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T09:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Ep_cDd89KkrEr302w4Tadbshgs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pwn3Cp2ex18"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T07:16:56Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "හිරු මධ්\u200dයාහ්න 11.55 ප්\u200dරධාන ප්\u200dරවෘත්ති ප්\u200dරකාශය - HiruTV NEWS 11:55AM LIVE | 2025-03-26",
+          "description": "හිරු මධ්\u200dයාහ්න 11.55 ප්\u200dරධාන ප්\u200dරවෘත්ති ප්\u200dරකාශය - HiruTV NEWS 11:55AM LIVE | 2025-03-26 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pwn3Cp2ex18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pwn3Cp2ex18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pwn3Cp2ex18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T07:16:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gLzpMb2kxKniCcD6KEmErQrzAw0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iTCArZUMzks"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T13:45:17Z",
+          "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+          "title": "Papua New Guinea Bans Facebook, Cites Misinfo, Explicit Content As Reason | World News | WION",
+          "description": "Facebook users in Papua New Guinea woke up to a rude shock when they discovered that they were unable to access the social ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iTCArZUMzks/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iTCArZUMzks/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iTCArZUMzks/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WION",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T13:45:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AMRPqaXdo9pfVL9pVK2HTTKZX3E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FgQ4Qbtqdzw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T14:20:08Z",
+          "channelId": "UCjVEMcO-RXifDcOGbg1Uv9w",
+          "title": "JOB OFFER &amp; LMIA Points Officially Removed by IRCC, BREAKING NEWS! Canada Immigration IRCC Updates",
+          "description": "Schedule an appointment with me: https://beingcanada.com/book/ ▻ Get in touch - Call or Whatsapp on +1 (905) 904 - 2704 OR ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FgQ4Qbtqdzw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FgQ4Qbtqdzw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FgQ4Qbtqdzw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sahil Sayal",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T14:20:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ysQsmbNblrBJCiy_gUJOvvoI98k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HsGPvucZEyE"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T23:55:15Z",
+          "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+          "title": "DBC NEWS LIVE | ডিবিসি নিউজ টেলিভিশন সরাসরি | LIVE TV | LIVE TV STREAMING | BANGLA TV LIVE",
+          "description": "DBC NEWS LIVE | ডিবিসি নিউজ টেলিভিশন সরাসরি | LIVE TV | LIVE TV STREAMING | BANGLA TV LIVE ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HsGPvucZEyE/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HsGPvucZEyE/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HsGPvucZEyE/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DBC NEWS",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-25T23:55:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Xrh5nwSDDCrxIFeyRI5JcTvNUhw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5g7wFAICwcs"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T07:08:44Z",
+          "channelId": "UCtqvtAVmad5zywaziN6CbfA",
+          "title": "আ/য়রন ডো/মও আর পারছে না! | News | Ekattor TV",
+          "description": "আ/য়রন ডো/মও আর পারছে না! Content Creator: Barna Tarana | Rana Ahmed | Jewel Marak #Israel #IronDome ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5g7wFAICwcs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5g7wFAICwcs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5g7wFAICwcs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ekattor TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T07:08:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bqLKjIQ5OMbs1BGVhQ05ZJ_pA1s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "otrYX9HBSHU"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T02:17:07Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "Hiru TV Paththare Visthare - හිරු ටීවී පත්තරේ විස්තරේ LIVE | 2025-03-26| Hiru News",
+          "description": "Hiru TV Paththare Visthare - හිරු ටීවී පත්තරේ විස්තරේ LIVE | 2025-03-26| Hiru News SUBSCRIBE ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/otrYX9HBSHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/otrYX9HBSHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/otrYX9HBSHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T02:17:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "welvQZ_YkecM2eo4U9WcEW6hkqQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZvIjEpHqWcY"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T14:21:53Z",
+          "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
+          "title": "【夜 ニュースライブ】最新ニュースと生活情報（3月25日） ──THE LATEST NEWS SUMMARY（日テレNEWS LIVE）",
+          "description": "メンバーシップ「日テレNEWSクラブ」始まりました 月額290円で所属歴に応じ色が変化しステータスアップしていくバッジ特典 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZvIjEpHqWcY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZvIjEpHqWcY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZvIjEpHqWcY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "日テレNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T14:21:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PPjGVMtWD3vycXTyKAYYDFXeJcs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B6GrW8fYQCw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T03:30:40Z",
+          "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
+          "title": "பாரதிராஜாவின் மகன் மனோஜ் திடீர் மரணம் வீட்டில் நடந்தது என்ன?",
+          "description": "பாரதிராஜாவின் மகன் மனோஜ் திடீர் மரணம் வீட்டில் நடந்தது என்ன?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B6GrW8fYQCw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B6GrW8fYQCw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B6GrW8fYQCw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Polimer News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T03:30:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kZO-0Ul65fYedYl4vEcYkrx1QFU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Rezclb2HFIU"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T16:58:01Z",
+          "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+          "title": "১০ লাখের ভোল মাছ এক লাফে নেমে গেলো ৩ লাখে, কি ছিলো তার পেটে? | Fish | Giant | Rtv",
+          "description": "News #BDNews #RtvNews #giant #fish ১০ লাখের ভোল মাছ এক লাফে নেমে গেলো ৩ লাখে, কি ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rezclb2HFIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rezclb2HFIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rezclb2HFIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rtv News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T16:58:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RxCRNvg14IoJdkGB0X3w6lfzWDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nzRjFZEjpEg"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T02:15:50Z",
+          "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+          "title": "【LIVE】朝のニュース（Japan News Digest Live）最新情報など｜TBS NEWS DIG（3月25日）",
+          "description": "3月25日（火）の早朝から TBS NEWS で放送された最新のニュースをダイジェストでお届けします。 ・旧統一教会への解散命令 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nzRjFZEjpEg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nzRjFZEjpEg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nzRjFZEjpEg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TBS NEWS DIG Powered by JNN",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T02:15:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_XtH0mMkCMRxQFNj_31vhw11TRU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8gnmoI6H2KI"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T12:45:01Z",
+          "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
+          "title": "একনজরে বিশ্বের আলোচিত সব খবর | Jamuna iDesk | 25 March 2025 | Jamuna TV",
+          "description": "একনজরে বিশ্বের আলোচিত সব খবর | Jamuna iDesk | 25 March 2025 | Jamuna TV ⨳About Jamuna ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8gnmoI6H2KI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8gnmoI6H2KI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8gnmoI6H2KI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jamuna TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T12:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FE8TJNloTsDD7ICYuaDQkRrYJCg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MbzWTervFe8"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T12:58:32Z",
+          "channelId": "UCgnFSj7jQffD5V5m05j4dPw",
+          "title": "දෙවිනුවර වෙඩි තැබීමෙන් මියගිය තරුණයෙකුගේ අවසන් කටයුතු පොලිස් ආරක්ෂාව මැද",
+          "description": "Facebook Channel: https://m.me/j/AbaQ5X0ZEJrNW3q2/ Whatsapp Channel එකට එකතු වෙන්න ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MbzWTervFe8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MbzWTervFe8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MbzWTervFe8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Newsfirst Sri Lanka",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T12:58:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2dzmuPc01_dOQ2IAdCPgfJFto0k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d3QgE8eP7sc"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T02:58:47Z",
+          "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+          "title": "ABC World News Tonight with David Muir Full Broadcast - March 24, 2025",
+          "description": "Martha Raddatz reports on the stunning national security breach that unfolded when Vice Pres. Vance and members of Pres.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d3QgE8eP7sc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d3QgE8eP7sc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d3QgE8eP7sc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ABC News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T02:58:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HcwxMomy_JctyuOw9eg4y_Jq828",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hep3Eu0QvCg"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T17:14:02Z",
+          "channelId": "UCMk9Tdc-d1BIcAFaSppiVkw",
+          "title": "News Ki Pathshala : Muskan Rastogi के कमरे में क्या-क्या मिला ?TNNB | #shorts",
+          "description": "News Ki Pathshala : Muskan Rastogi के कमरे में क्या-क्या मिला ?TNNB | Shorts #newskipathshala ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hep3Eu0QvCg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hep3Eu0QvCg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hep3Eu0QvCg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TIMES NOW Navbharat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T17:14:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7KiOMpvrZ_py4SapHlsK1ivs21c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L6n0tgqJ6vw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T07:05:39Z",
+          "channelId": "UCSeil5V81-mEGB1-VNR7YEA",
+          "title": "Trumps Kampfjet-Aussage lässt aufhorchen - Seitenhieb gegen Verbündete",
+          "description": "Trump vergibt einen Großauftrag für das Kampfflugzeug F-47 an Boeing. Der Kampfjet der neuen Generation soll neben Drohnen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L6n0tgqJ6vw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L6n0tgqJ6vw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L6n0tgqJ6vw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ntv Nachrichten",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T07:05:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "voQLeve91yW9vEqtqA6m45u4ZOE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JObPQx9DJnQ"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T10:48:11Z",
+          "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+          "title": "Today Breaking News LIVE : आज 24 मार्च 2025 के मुख्य समाचार| Aurangzeb | Meerut | Yashwant Verma",
+          "description": "kishoreajwani #delhihighcourt #yashwantverma #meerutmurder #Meerut #farmersprotest #farmerprotest #punjabpolice ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JObPQx9DJnQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JObPQx9DJnQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JObPQx9DJnQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "News18 India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T10:48:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "znknSEtaA6z5la6rIqF48tWOtO4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UAd3NrNSVrA"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T14:14:13Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "හිරු සවස 6.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 6:55 PM LIVE | 2025-03-25 | Hiru News",
+          "description": "හිරු සවස 6.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 6:55 PM LIVE | 2025-03-25 | Hiru News ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UAd3NrNSVrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UAd3NrNSVrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UAd3NrNSVrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T14:14:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fm0kVLNjxMN05DgJJx6EUVRq4cU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-WtKDFGaTqY"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T18:32:03Z",
+          "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
+          "title": "4 things to know about rooting out government fraud and DOGE’s approach to it now",
+          "description": "Finding government waste, fraud and abuse has been a hot topic for both President Trump and Elon Musk, who have both made ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-WtKDFGaTqY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-WtKDFGaTqY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-WtKDFGaTqY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PBS NewsHour",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T18:32:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "G-yQkKK25vgxJ5dF9lq9W-QA7w0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ss5Ph4optgY"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T00:00:21Z",
+          "channelId": "UCgY66N1YS_G9lYMvCQko6yw",
+          "title": "BITCOIN SHORT SQUEEZE LOADING (Price Target)!! Bitcoin News Today, Ethereum, Solana, XRP &amp; Chainlink",
+          "description": "BITCOIN SHORT SQUEEZE LOADING (Price Target)!! Bitcoin News Today, Ethereum, Solana, XRP & Chainlink *Bitunix* ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ss5Ph4optgY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ss5Ph4optgY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ss5Ph4optgY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Crypto World",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T00:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "O4iIp_Tz2oa4JeWAjX-s3zhIPrE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O0Enw_5KpL0"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T16:34:03Z",
+          "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+          "title": "Social Media Reinforces Distorted Self Views, Says Study | World News | WION Fineprint",
+          "description": "Social media has become an integral part of our lives. While some use it to connect with friends and family, others use it for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O0Enw_5KpL0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O0Enw_5KpL0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O0Enw_5KpL0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WION",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T16:34:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FF9ZQgsOnd-IgiJlv0nm5oPZNOs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vaYRxOfVdvc"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T07:17:09Z",
+          "channelId": "UCCK3OZi788Ok44K97WAhLKQ",
+          "title": "අද දෙරණ 12.00 මධ්\u200dයාහ්න පුවත් විකාශය - 2025.03.25 | Ada Derana Midday Prime News Bulletin",
+          "description": "Ada Derana | ශ්\u200dරී ලංකාවේ විශ්වසනීය හා ප්\u200dරමුඛතම පුවත් සපයන්නා Disclaimer: This ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vaYRxOfVdvc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vaYRxOfVdvc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vaYRxOfVdvc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ada Derana",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T07:17:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KubtbmuUQBImwGppb-5hTFB56rw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qJmd0mtULIU"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T14:11:20Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "හිරු සවස 6.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 6:55 PM LIVE | 2025-03-24 | Hiru News",
+          "description": "හිරු සවස 6.55 ප්\u200dරධාන ප්\u200dරවෘත්ති විකාශය - Hiru TV NEWS 6:55 PM LIVE | 2025-03-24 | Hiru News ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qJmd0mtULIU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qJmd0mtULIU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qJmd0mtULIU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T14:11:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "n3Pg0Ml9wbYuFX8ZnM1gee1PDiY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2Uf4OhJ7EIk"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T07:19:31Z",
+          "channelId": "UCckltLEhFLv8Xz_lQhYfwmg",
+          "title": "හිරු මධ්\u200dයාහ්න 11.55 ප්\u200dරධාන ප්\u200dරවෘත්ති ප්\u200dරකාශය - HiruTV NEWS 11:55AM LIVE | 2025-03-25",
+          "description": "හිරු මධ්\u200dයාහ්න 11.55 ප්\u200dරධාන ප්\u200dරවෘත්ති ප්\u200dරකාශය - HiruTV NEWS 11:55AM LIVE | 2025-03-25 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2Uf4OhJ7EIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2Uf4OhJ7EIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2Uf4OhJ7EIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hiru News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T07:19:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ubz7m_DMgCneOl3iQDqI67PM-6I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CDIAN-PlqAw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T10:45:00Z",
+          "channelId": "UCZMsvbAhhRblVGXmEXW8TSA",
+          "title": "DEUTSCHLAND: AFD-Schock für Friedrich Merz! Umfrage-Hammer! Das gab es noch nie",
+          "description": "DEUTSCHLAND: AFD-Schock für Friedrich Merz! Umfrage-Hammer! Das gab es noch nie Mit 24% erreicht die AfD in aktuellen ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CDIAN-PlqAw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CDIAN-PlqAw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CDIAN-PlqAw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WELT Nachrichtensender",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T10:45:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TGbpmoW87zryj2E1MT7GQvtrQmc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IYa8ZGiNOzA"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T01:15:26Z",
+          "channelId": "UC7wXt18f2iA3EDXeqAVuKng",
+          "title": "Meerut Murder Case Big Update LIVE: जेल के अंदर साहिल की कैदियों ने कर दी पिटाई ! | Muskan Rastogi",
+          "description": "Meerut Murder Case Big Update LIVE: जेल के अंदर साहिल की कैदियों ने कर दी पिटाई !",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IYa8ZGiNOzA/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IYa8ZGiNOzA/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IYa8ZGiNOzA/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Republic Bharat",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T01:15:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zLwJFqdznRkXmsEZy9arKSsycR4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Nvm8xXFHs-c"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T00:10:00Z",
+          "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+          "title": "Aaj Ki Taaza Khabar Live: Top 100 News Today | Delhi Budget 2025 | Waqf | Sambhal | Meerut Murder",
+          "description": "Aaj Ki Taaza Khabar Live: Top 100 News Today | Delhi Budget 2025 | Nagpur Violence | Sambhal | Meerut Murder Case | Waqf ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nvm8xXFHs-c/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nvm8xXFHs-c/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nvm8xXFHs-c/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Zee News",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T00:10:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MlwKQWjvr7BR2n10sGXIgBiFB-Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-mvUkiILTqI"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-20T15:08:33Z",
+          "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+          "title": "WATCH: ABC News Live - 24/7 news, context and analysis",
+          "description": "ABC News Live is ABC News' award-winning 24/7 streaming news channel with live coverage as news breaks, up-to- the-minute ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-mvUkiILTqI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-mvUkiILTqI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-mvUkiILTqI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ABC News",
+          "liveBroadcastContent": "live",
+          "publishTime": "2024-05-20T15:08:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5VS8wwGXekD0DaradhEfjz4mB6Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tm_vVQQ4Q2U"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T07:44:50Z",
+          "channelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
+          "title": "CBC News: The National | More uncertainty about Trump’s tariffs",
+          "description": "March 24, 2025 | White House officials say some tariffs might not come into effect on April 2 as Trump has threatened. Hudson's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tm_vVQQ4Q2U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tm_vVQQ4Q2U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tm_vVQQ4Q2U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CBC News: The National",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T07:44:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-UO3H6hARWRG8M6NEylASDMT87A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7At1JCB6aK4"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T16:54:13Z",
+          "channelId": "UC8lKgUHo-2mSR5cRRXO9xow",
+          "title": "🔴 LIVE | Siyatha News | 09.35 PM | 25 - 03 - 2025",
+          "description": "LIVE | Siyatha News | 09.35 PM | 25 - 03 - 2025 Siyatha News - The most reliable news brand in Sri Lanka Siyatha Morning News ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7At1JCB6aK4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7At1JCB6aK4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7At1JCB6aK4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Siyatha News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T16:54:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ONLBmsOzUDBDmjlhRGOwoYFlwdc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "n-wxMo4K610"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T09:19:24Z",
+          "channelId": "UCA4y9g_GRdNrZLH_u5LLSdw",
+          "title": "দুপুর ০২টার বাংলাভিশন সংবাদ | ২৬ মার্চ  ২০২৫  | BanglaVision 2 PM News Bulletin | 26 March 2025",
+          "description": "দুপুর ০২টার বাংলাভিশন সংবাদ | ২৬ মার্চ ২০২৫ | BanglaVision 2 PM News Bulletin | 26 March ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n-wxMo4K610/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n-wxMo4K610/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n-wxMo4K610/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BanglaVision NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T09:19:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eHJg59sEtj5sZ-RRLp0rN70Nnvg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ue56rAcOTQg"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T22:29:16Z",
+          "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+          "title": "US plan to bomb Yemen&#39;s Houthis accidentally shared with American journalist in group chat",
+          "description": "An American reporter was accidentally included in a group chat in which senior officials in Donald Trump's government discussed ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ue56rAcOTQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ue56rAcOTQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ue56rAcOTQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sky News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T22:29:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tb1_-ZgnHMSB5N3S8GAY2Ro95AA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pFgA3U3JtGY"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T14:17:28Z",
+          "channelId": "UC6SP_igv78fiJhhy_voqpIg",
+          "title": "Pudhari News | खासदार, माजी खासदारांचे वेतन भत्ते इतके वाढले | #sansad #khasdar",
+          "description": "pudharinews #marathinews #sansad #khasdar #pudharinewslive #pudhari #pudharinewschannel #pudharinewschannellive ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pFgA3U3JtGY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pFgA3U3JtGY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pFgA3U3JtGY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Pudhari News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T14:17:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "H6c9ROYkE4xk9XY-SuAWD-yWtP4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gkCA2F7OgLw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T09:35:41Z",
+          "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+          "title": "Samsung Electronics co-CEO dies of heart attack | REUTERS",
+          "description": "Samsung Electronics announced that their co-CEO Han Jong-hee has died of a heart attack at the age of 63. In his forty-year ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gkCA2F7OgLw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gkCA2F7OgLw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gkCA2F7OgLw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Reuters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T09:35:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wdCW-ht5BNfE82FrIkbTQ0om1ic",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YeHaLzkU5D4"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T06:23:23Z",
+          "channelId": "UC-mMi78WJST4N5o8_i1FoXw",
+          "title": "Top Headlines Of The Hour | ഈ മണിക്കൂറിലെ പ്രധാന തലക്കെട്ടുകൾ | Kerala News | #short",
+          "description": "Kerala News | ഈ മണിക്കൂറിലെ പ്രധാന വാർത്തകൾ ഒറ്റനോട്ടത്തിൽ അറിയണോ?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YeHaLzkU5D4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YeHaLzkU5D4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YeHaLzkU5D4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "News18 Kerala",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T06:23:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "coidKaxZLgQ-NukSKANjyI-ZzX4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7BZFyKbe9ck"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-24T07:14:30Z",
+          "channelId": "UCg-0bY9vTkEqCRg_aceEKDA",
+          "title": "iSmart News : టీస్టాల్ అభిమానికి ఇచ్చిన మాట నిలబెట్టుకున్న కేటీఆర్ | KTR Tea Stall - TV9",
+          "description": "iSmart News : టీస్టాల్ అభిమానికి ఇచ్చిన మాట నిలబెట్టుకున్న కేటీఆర్ | KTR ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7BZFyKbe9ck/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7BZFyKbe9ck/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7BZFyKbe9ck/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TV9 iSmart News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-24T07:14:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eKr4qIUuCIW7SEy2_o6Gk7N4a2k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gx28pH364tw"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T18:04:23Z",
+          "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
+          "title": "🔴LIVE: &#39;ராசா போய் வாடா&#39;…மனோஜின் இறுதி பயணம்..கண்ணீரில் மூழ்கிய பிரபலங்கள் | Manoj bharthiraja Death",
+          "description": "LIVE: 'ராசா போய் வாடா'…மனோஜின் இறுதி பயணம்..கண்ணீரில் மூழ்கிய ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gx28pH364tw/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gx28pH364tw/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gx28pH364tw/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Polimer News",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-25T18:04:23Z"
+        }
+      }
+    ]
+  }
+  

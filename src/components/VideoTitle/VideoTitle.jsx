@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { BiLike, BiDislike } from "react-icons/bi";
 import { FaShare, FaYoutube } from "react-icons/fa";
+import { Link } from "react-router-dom";
 import "./VideoTitle.css";
-import { getVideoDetails } from "../../utils/api";
+import {formatViews} from "../../utils/functions";
 
 function WatchvideoTitle({ details }) {
   const [showDescription, setShowDescription] = useState(false);
@@ -24,16 +25,14 @@ function WatchvideoTitle({ details }) {
 
     try {
       const response = await fetch(url);
-
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);
       }
-
       const data = await response.json();
       setVideoData(data.items[0]);
     } catch (error) {
       console.error("Error fetching video details:", error);
-      throw error;
+      setError(error.message);
     }
   };
 
@@ -48,67 +47,50 @@ function WatchvideoTitle({ details }) {
 
   const handleReaction = (reaction) => {
     if (reaction === "like") {
-      if (userReaction === "like") {
-        setLikes(likes - 1);
-        setUserReaction(null);
-      } else {
-        setLikes(likes + 1);
-        if (userReaction === "dislike") {
-          setDislikes(dislikes - 1);
-        }
-        setUserReaction("like");
-      }
-    } else if (reaction === "dislike") {
-      if (userReaction === "dislike") {
-        setDislikes(dislikes - 1);
-        setUserReaction(null);
-      } else {
-        setDislikes(dislikes + 1);
-        if (userReaction === "like") {
-          setLikes(likes - 1);
-        }
-        setUserReaction("dislike");
-      }
+      setLikes(likes + (userReaction === "like" ? -1 : 1));
+      if (userReaction === "dislike") setDislikes(dislikes - 1);
+      setUserReaction(userReaction === "like" ? null : "like");
+    } else {
+      setDislikes(dislikes + (userReaction === "dislike" ? -1 : 1));
+      if (userReaction === "like") setLikes(likes - 1);
+      setUserReaction(userReaction === "dislike" ? null : "dislike");
     }
     saveToLocalStorage(reaction);
   };
 
   const saveToLocalStorage = (reaction) => {
     const updatedData = {
-      likes:
-        reaction === "like"
-          ? likes + (userReaction === "like" ? -1 : 1)
-          : likes,
-      dislikes:
-        reaction === "dislike"
-          ? dislikes + (userReaction === "dislike" ? -1 : 1)
-          : dislikes,
+      likes: reaction === "like" ? likes + (userReaction === "like" ? -1 : 1) : likes,
+      dislikes: reaction === "dislike" ? dislikes + (userReaction === "dislike" ? -1 : 1) : dislikes,
       reaction: reaction === userReaction ? null : reaction,
     };
     localStorage.setItem(`video-${details}`, JSON.stringify(updatedData));
   };
 
   return (
-    <div className="watchvideo-container ">
-      {error && <p style={{ color: "red" }}>{error}</p>}
+    <div className="watchvideo-container">
+      {error && <p className="error">{error}</p>}
       <h1 className="video-title">{videoData?.snippet?.title}</h1>
-      <p>{videoData?.statistics?.viewCount} views</p>
+      <p>{formatViews(videoData?.statistics?.viewCount)} views</p>
       <p>{new Date(videoData?.snippet?.publishedAt).toDateString()}</p>
       <div className="video-info">
-        <div className="channel-info">
-          <h2 className="channel-name">{videoData?.snippet?.channelTitle}</h2>
+        <div className="flex gap-3">
+          <Link to={`/channel/${videoData?.snippet?.channelId}`}>
+            <img src={videoData?.snippet?.thumbnails?.maxres?.url} className="watch-channel-image" alt="watch-channel-image" />
+          </Link>
+          <div className="channel-details">
+            <h4 className="channel-name">{videoData?.snippet?.channelTitle}</h4>
+            {/* <p className="subscriber-count">{videoData?.channelInfo?.subCount} subscribers</p> */}
+          </div>
         </div>
         <div className="actions">
           <div className="like-section" onClick={() => handleReaction("like")}>
-            <BiLike color={userReaction === "like" ? "blue" : "black"} />
-            <span className="likes">{likes}</span>
+            <BiLike className={userReaction === "like" ? "active-like" : ""} />
+            <span>{likes}</span>
           </div>
-          <div
-            className="like-section"
-            onClick={() => handleReaction("dislike")}
-          >
-            <BiDislike color={userReaction === "dislike" ? "red" : "black"} />
-            <span className="dislikes">{dislikes}</span>
+          <div className="like-section" onClick={() => handleReaction("dislike")}>
+            <BiDislike className={userReaction === "dislike" ? "active-dislike" : ""} />
+            <span>{dislikes}</span>
           </div>
           <div className="share-section">
             <FaShare />
@@ -124,10 +106,7 @@ function WatchvideoTitle({ details }) {
         <p className={`description-text ${showDescription ? "" : "truncate"}`}>
           {videoData?.snippet?.description}
         </p>
-        <button
-          className="toggle-btn"
-          onClick={() => setShowDescription(!showDescription)}
-        >
+        <button className="toggle-btn" onClick={() => setShowDescription(!showDescription)}>
           {showDescription ? "...less" : "...more"}
         </button>
       </div>

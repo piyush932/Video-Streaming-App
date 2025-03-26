@@ -8,6 +8,7 @@ import Container from "./pages/Container.jsx";
 import SearchresultsPage from "./pages/SearchresultPage.jsx"
 import Signin from "./pages/Signin.jsx";
 import Layout from "./pages/Layout.jsx";
+import Channel from "./pages/Channel.jsx";
 
 const bodyRouter = createBrowserRouter([
   {
@@ -32,6 +33,14 @@ const bodyRouter = createBrowserRouter([
         path: "signin",
         element: <Signin />, 
       },
+      {
+        path:"channel/:channelId",
+        element:<Channel />
+      },
+      {
+        path:"explore/:tag",
+        element:<Container />
+      }
     ],
   },
 ]);

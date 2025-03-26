@@ -1,7 +1,6 @@
 import React from "react";
 import "./SearchresultCard.css";
-import timeAgo from '../../utils/functions';
-import truncateText from '../../utils/functions'
+import {timeAgo,truncateText} from '../../utils/functions';
 
 const SearchVideoCard = ({ info }) => {
   const { snippet } = info;

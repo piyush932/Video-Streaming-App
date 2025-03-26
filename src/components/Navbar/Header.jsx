@@ -26,7 +26,7 @@ function Header() {
 
   // useEffect(()=>{
   //   const timer = setTimeout(()=>getSearchSuggestions(),300);
-    
+
   //   return ()=>{
   //     clearTimeout(timer);
   //   }
@@ -37,20 +37,19 @@ function Header() {
   //     const response = await fetch(
   //       `${import.meta.env.VITE_YOUTUBE_SEARCH_API}?part=snippet&q=${searchQuery}&key=${import.meta.env.VITE_GOOGLE_API}&type=video`
   //     );
-  
+
   //     if (!response.ok) {
   //       throw new Error(`HTTP error! Status: ${response.status}`);
   //     }
-  
+
   //     const data = await response.json();
   //     console.log(data);
   //   } catch (error) {
   //     console.error("Error fetching suggestions:", error);
   //   }
   // };
-  // 
-  // 
-
+  //
+  //
 
   const handleSearch = () => {
     if (searchQuery.trim() !== "") {

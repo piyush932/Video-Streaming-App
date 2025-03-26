@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "0MF_0eeANHGvmk6Aay9qllgdZHc",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wlQmbqz-4bgzZdQKw_p1dgZ6fwQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dn3dADlAzQQ"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-15T13:08:51Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Has this happened to you? #promdressshopping #prom #promdress #fashion #dress",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dn3dADlAzQQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dn3dADlAzQQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dn3dADlAzQQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-15T13:08:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mc-PW6EqMfT0A58DYp2b6k5aw8A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yhdSzRkx8wQ"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-16T05:30:31Z",
+          "channelId": "UCSXse3Yy02OHwCOQOY1zgcw",
+          "title": "Wearing VS Styling A loose Kurta In Winters ✨❤️  #fashion #kurti #indianwear",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yhdSzRkx8wQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yhdSzRkx8wQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yhdSzRkx8wQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Monalisha Mahapatra",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-16T05:30:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VyMkecbx2KUjZoAbfbTwObkgPbo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oY3z5samcGU"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-22T17:15:02Z",
+          "channelId": "UCWBWgCD4oAqT3hUeq40SCUw",
+          "title": "Dumbest Fashion Trends In History",
+          "description": "Get Merch: https://bucha.shop Become a Member: https://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw/join ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oY3z5samcGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oY3z5samcGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oY3z5samcGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sambucha",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-22T17:15:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Haz6cHt_aAYCywvu_J9W93pJwwQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "43gQZ1LyIxM"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-25T13:41:21Z",
+          "channelId": "UCaGaOAzigKnbCOU7UpkR2UQ",
+          "title": "Latest wedding dress design/new collection/new fashion/fancy dress design/wedding collection/shorts",
+          "description": "dress #fashion #wedding #weddingdress #latestcollection #trendingshorts #fashiondesign #eidcollection #elegantdress ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/43gQZ1LyIxM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/43gQZ1LyIxM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/43gQZ1LyIxM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "kausar angel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-25T13:41:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UBNlobPMGkmqStb0sfP4yNGEHnU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JLNJ-5QOSng"
+        },
+        "snippet": {
+          "publishedAt": "2024-02-09T15:31:43Z",
+          "channelId": "UC8kVkN8Hh2npItTFP_zO1ug",
+          "title": "super designer yellow saree 2024   #saree #sadi #sareelove #yellowsaree #fashion #shortvideo#shorts",
+          "description": "super designer yellow saree 2024 #saree #sadi #yellowsaree #fashion #shortsvideo #shorts #viral #viralshort 9904890201.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JLNJ-5QOSng/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JLNJ-5QOSng/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JLNJ-5QOSng/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "INDIAN FASHION WORLD",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-02-09T15:31:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GilT5wEK4gg1tJp5UHI9DdDC8Bg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5bd8ziFhD18"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-08T22:40:21Z",
+          "channelId": "UCXdtwY5TaRQX9qzTwBmzAQg",
+          "title": "Corset long sleeves floral print chiffon mini tiered dress #dress #gown #fashion #promdress #sewing",
+          "description": "Welcome to subscribe to my channel---- @MissJophiel We specialize in designing and creating high-quality, stylish dresses, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5bd8ziFhD18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5bd8ziFhD18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5bd8ziFhD18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MissJophiel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-08T22:40:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FsKA7rqAoBLI8ZaULm1yM4odl_4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9EgV6wDIQ6c"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-14T05:00:11Z",
+          "channelId": "UCPClHbC1fpSeHxsH9GbVdHA",
+          "title": "Most Viral Velvet Embroidered Frock Design #fashion #embroidery #shortsviral #shorts",
+          "description": "Most Viral Velvet Embroidered Dress Design #fashion #embroidery #shortsviral #shorts Follow us on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9EgV6wDIQ6c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9EgV6wDIQ6c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9EgV6wDIQ6c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "A.K Design Ideas",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-14T05:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zTJYm8adWzF3_QK_usg40NBa0Xk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "91K_9h1bM28"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-23T14:04:56Z",
+          "channelId": "UCSTLqt0xTm8IjbQLfDAV6GA",
+          "title": "meesho skirt set finds 🌷❤️ pinterest inspired #meeshooutfit #dreamy_girl #shortsvideo #viral",
+          "description": "Wishlink post Url https://www.wishlink.com/dreamygirl0/post/552074 All Product Urls Top https://www.wishlink.com/share/4mrmx ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/91K_9h1bM28/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/91K_9h1bM28/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/91K_9h1bM28/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dreamy girl",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-23T14:04:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Q6P-r9fSJOTC6taTIMVAmpfxXio",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iM00fmxDFEs"
+        },
+        "snippet": {
+          "publishedAt": "2024-11-26T16:00:37Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Would your boyfriend do this?🤭 #formaldresses #fashion #promdressideas #promdresses #dress #prom",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iM00fmxDFEs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iM00fmxDFEs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iM00fmxDFEs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-11-26T16:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hCMpg3YjmBZTbvluX43r3t9fedI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mHpcuB8HuYI"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-08T01:32:10Z",
+          "channelId": "UCuGiL-X1fMXQUP3nFsQUFbg",
+          "title": "Women coord set #coordset #clothing #top #pets #girl #fashion  #shortvideo @gulatigarments6442",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mHpcuB8HuYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mHpcuB8HuYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mHpcuB8HuYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gulati garments nabha",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-08T01:32:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S6G2OF6ulLwAe0iaek8PW9KN16k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5aM38ruu5bY"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-20T12:30:04Z",
+          "channelId": "UChOn58SjnKKJIAmHVaqUfeA",
+          "title": "Designer gowns for sale #gowncollection #fashiondesigner #dress #gown #trending #viral #designergown",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5aM38ruu5bY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5aM38ruu5bY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5aM38ruu5bY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CREATIVE MARIYAM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-20T12:30:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iyGSvMXmIfh219e93gApyawW-KU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AY9jz3ybQ4A"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-17T16:00:13Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Did you see that coming?😳 #promdressshopping #fashion #promdress #promdressideas #dress",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AY9jz3ybQ4A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AY9jz3ybQ4A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AY9jz3ybQ4A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-17T16:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BoI4FTLnHaksnkmfBawJUpqOKdQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5meCXN_dcww"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-27T17:03:21Z",
+          "channelId": "UCsKOhbPHgBGDWRaSbolBvXg",
+          "title": "Back to school outfits #fashion #outfit #college",
+          "description": "shop my outfits: https://tapto.shop/kellydoan LTK: https://www.shopltk.com/explore/KellyDoan amazon ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5meCXN_dcww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5meCXN_dcww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5meCXN_dcww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kelly Doan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-27T17:03:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1HKDSV2t4ie0ZRr31gtsfjrEkFE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "z29UPdEtm4w"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-28T04:03:59Z",
+          "channelId": "UClLFLDAPq9GykBpH-Rdq-BA",
+          "title": "Adorable Baby Fashion Show~ How to style your baby? Trendy Fashion looks &amp; Outfit ideas😘",
+          "description": "aibaby #aibabayfashionshow #artificialintelligence #ytshorts #viralbaby #trendingshorts #aifashionshow #aifashionmodel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z29UPdEtm4w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z29UPdEtm4w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z29UPdEtm4w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TinyFashion",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-28T04:03:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w8K76MdlsC6M8bra0k-C6ihmzSM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xK8IdrjZQQg"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-12T01:56:38Z",
+          "channelId": "UCnX7H-1r9jkxGhvvwNKgokg",
+          "title": "😱😱 woww trending ZIP &amp; GO sarees collection.for details WhatsApp group link.😎😎",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xK8IdrjZQQg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xK8IdrjZQQg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xK8IdrjZQQg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Yuva Fashion",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-12T01:56:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XUEAmTumgSx6DuCCAIqWEHLcKPk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "n_8xy8iG3Ak"
+        },
+        "snippet": {
+          "publishedAt": "2024-11-14T14:36:53Z",
+          "channelId": "UCdHzZv2lphusQtcPHKLRASQ",
+          "title": "i wanna buy all of these dresses 😳  #fashionreview #fashion #dress",
+          "description": "fashion review 2024 | red carpet fashion reviews 2024 | red carpet looks reviews | red carpet looks reaction | 2024 fashion trends ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n_8xy8iG3Ak/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n_8xy8iG3Ak/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n_8xy8iG3Ak/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The fashion chick ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-11-14T14:36:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4DpvbFFlEIBkY4bry2KlbPGhLGA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZPVVrhKoi_U"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-06T12:44:00Z",
+          "channelId": "UCvKf5CiD0amZAWMCVpzzaUQ",
+          "title": "Don&#39;t Wear in Public #fashion #aestheticfashion #menstyle #oldmoney #fashiontrends #outfitideas",
+          "description": "Shop Now. Link in Bio. #menfashion #menstyle #oldmoney #oldmoneyaesthetic #oldmoneystyle #classy #gentleman #richlife ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZPVVrhKoi_U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZPVVrhKoi_U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZPVVrhKoi_U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "STYLISH SOCIETY",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-06T12:44:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_pSWExt0c8OPt6d3f2Q11KyZob4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7ut3_DyA49A"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-15T12:00:19Z",
+          "channelId": "UCFnJK35xcM6smO7nq6xA9Ng",
+          "title": "That&#39;s a mom-sized PANEL #fashion #childrenswear #designerclothes #childrenclothing #dress",
+          "description": "similar kinds of 1st birthday gowns, ball gowns for baby girls, couture designs for girls, luxury designer gowns for girls, mom and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7ut3_DyA49A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7ut3_DyA49A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7ut3_DyA49A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Li&Li Couture",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-15T12:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zvKIiL7LuUgWhvGL8ZwLNd2-Ifg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7wg6daFC0-8"
+        },
+        "snippet": {
+          "publishedAt": "2024-09-27T01:01:28Z",
+          "channelId": "UCu-IILIJ-xy4EGdUNiVgKrw",
+          "title": "LINK IN BIO TO SHOP! Does she though? #streetwear #fashion #style #y2k #clothes",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7wg6daFC0-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7wg6daFC0-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7wg6daFC0-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Streetwear Dreams ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-09-27T01:01:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Sxhqgt3C6EhaICffT37UggoWBU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AGe_zn7dNCk"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-12T16:00:18Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Which dress would you pick!? #prom #promdressshopping #formalwear #fashion #promdress #promdresses",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AGe_zn7dNCk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AGe_zn7dNCk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AGe_zn7dNCk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-12T16:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NOFTFhzIbtoNYTkbdre-X9KLy_4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ECAqbm2mgD4"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-15T00:55:40Z",
+          "channelId": "UCTVu8p4eGCBSkTXoyTsUGVg",
+          "title": "kids fashion cost-1900 free ship available #saree #viral #pattusares #fashion #fashionstyles",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ECAqbm2mgD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ECAqbm2mgD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ECAqbm2mgD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "☺chandu collection☺",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-15T00:55:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Yz0Pa8YOd7IhTU-cFjMwcTqbK6k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LaJi1_F7g10"
+        },
+        "snippet": {
+          "publishedAt": "2019-09-20T18:52:46Z",
+          "channelId": "UCrx5pVziMo1qzF8isicR5SQ",
+          "title": "Versace Women’s Spring-Summer 2020 | Fashion Show",
+          "description": "For the Spring-Summer 2020 Collection, Donatella Versace honors an iconic moment when fashion and culture became a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LaJi1_F7g10/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LaJi1_F7g10/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LaJi1_F7g10/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Versace",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-09-20T18:52:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XIRSVogn3BMdDh9HKZE-kiKmBxI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eUPb45hSs1Q"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-22T19:00:35Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "This is for the besties🥲 #promdressshopping #prom #fashiondress #fashion #promdressideas",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eUPb45hSs1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eUPb45hSs1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eUPb45hSs1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-22T19:00:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z2ar6E6wPdlFjfotUdM9GS8KnOA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q3FbFzKBPH8"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-21T18:38:27Z",
+          "channelId": "UCQ-WlBPb_to8gycFX5OgDXg",
+          "title": "new dress collection #fashion #dress #fashiondress #womensfashion #shopping #shortdress",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q3FbFzKBPH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q3FbFzKBPH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q3FbFzKBPH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apon a2z",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-21T18:38:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zUgnIm1sf2M1cgD45TH7-XlG4m4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CPNDwdEkAdw"
+        },
+        "snippet": {
+          "publishedAt": "2024-08-29T07:19:21Z",
+          "channelId": "UC79CXS-42wI_wgPSNIvO1ng",
+          "title": "A very beautiful pure pasmina green colour Sarees #bandhani #saree #video #fashion #trending #new",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CPNDwdEkAdw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CPNDwdEkAdw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CPNDwdEkAdw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vasundhara Sarees",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-08-29T07:19:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4v4HL-lZbO1ZPyIZIcYj_k46pt4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4247LdSIh_A"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-21T06:30:02Z",
+          "channelId": "UCHE_9JW6SQ8pyvHVbRrzqsA",
+          "title": "Ramzan Eid Pakistani Long Pant Collection #shorts #fashion #viralvideo #alinavlogss",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4247LdSIh_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4247LdSIh_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4247LdSIh_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ALINA'S COOKING & VLOG",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-21T06:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7m8Pr5M2Jx65KWrIbnpXFpmACY0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3QQtoQQo10s"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-16T14:00:04Z",
+          "channelId": "UCjacRo8crmvJuQt6nyFXyBg",
+          "title": "Fast fashion ANTI-HAUL 😩",
+          "description": "It's like they design things specifically to go straight to the landfill.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3QQtoQQo10s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3QQtoQQo10s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3QQtoQQo10s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LIVEKINDLY",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-16T14:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dhCoStVsYGQJPxaJEpqDqSUsyGA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UWq073W43Ec"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-14T16:45:52Z",
+          "channelId": "UC5o1e1-bzjspkUTltebhqUQ",
+          "title": "Did you know this shopping secret? 🤫 #fashionhack #shoppinghack #fashion #zara",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UWq073W43Ec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UWq073W43Ec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UWq073W43Ec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Swealife",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-14T16:45:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HRE7-KslQRDyjD_J_9l6VviNhQU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9DRvIdy3KwE"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-07T05:46:21Z",
+          "channelId": "UCpzk53UgdKpfUfrVTsS-Auw",
+          "title": "Open Plaza #love #fashion #rat #photooftheday #cute #transformation #trending #viralvideo #goa",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9DRvIdy3KwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9DRvIdy3KwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9DRvIdy3KwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ajay Gupta G shorts & fully garment vlog 11",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-07T05:46:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PGjx6baD0Y8kcdf8SsH4UcjagS0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7iWBmc7oOVU"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-03T13:00:10Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "What would you do?🤭 #promdress #prom #promdressshopping #promdressideas #fashion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7iWBmc7oOVU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7iWBmc7oOVU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7iWBmc7oOVU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-03T13:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3LTZ_vRFAgzsslS2Oh7flmfhFSo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BCtM7EEG3-k"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-14T19:00:03Z",
+          "channelId": "UC-oL_xsaFW_nwBSK52D_6Tg",
+          "title": "3 Trending Suit Ideas 2025",
+          "description": "trendingsuits #2025fashion #suits2025 3 Trending Suit Ideas 2025 Your Queries 2025 मे ये 5 सूट रहेंगे Trend ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BCtM7EEG3-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BCtM7EEG3-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BCtM7EEG3-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Oh my Dresses",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-14T19:00:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dUcS499BSCA0Y55TkMuvYvr-ERA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a5dOeisXrbY"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-09T13:05:00Z",
+          "channelId": "UCMAKYZJA7fHeRCsrjOv53yA",
+          "title": "Beautiful party wear dress #fashion #shorts #trending #partywear #dress @brandrewaj",
+          "description": "For more information contact us at instagram for more queries link in profile .We can Customize any outfit the way you want ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fashion Rewaj",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-09T13:05:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yBZIh2q2n7BYqXbdKGdogQx1aU4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r9NWVyJyAr0"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-10T19:05:00Z",
+          "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+          "title": "This statement ruffle top really needs good styling #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r9NWVyJyAr0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r9NWVyJyAr0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r9NWVyJyAr0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "andrea's fashion galaxy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-10T19:05:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2W9lIV_ZsDjVEe3ec-Mx3UgURPo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eRMEkPW1Mgg"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-08T14:04:54Z",
+          "channelId": "UClVg-dA0vAYI3RHQDl3tr5w",
+          "title": "Elegant Italian Ladies with Great Style Over 60 | Mature Fashion",
+          "description": "Elegant Italian Ladies with Great Style Over 60 | Mature Fashion #elegantfashion #classicfashion #fashionover60 #maturefashion ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eRMEkPW1Mgg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eRMEkPW1Mgg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eRMEkPW1Mgg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fashion Erudite",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-08T14:04:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "58hOxqc75b8Cij5EoLHnVpaovRg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AY-7fjL1JAk"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-11T08:41:11Z",
+          "channelId": "UCg4wPvX9vYnLe_mdmVNKH4A",
+          "title": "Letest panjabi suit 2025 #letest #panjabi #suitdesign #fashion #suit #desgins #partywear #shorts",
+          "description": "letest #fashion #partywear #slipers #wintercollection #footwear #sandalsdesigns #desgins #panjabisong #panjabi #catoon ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AY-7fjL1JAk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AY-7fjL1JAk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AY-7fjL1JAk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "⭐⭐# fashion world ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-11T08:41:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bBcGqrBjw-1yPhQyrzOsiRya_X8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LiD1Tb_UHxY"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-20T01:13:27Z",
+          "channelId": "UCecyOxHZpL3yfNFaUz2W_Ow",
+          "title": "This trend but 2024 fashion for each age",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LiD1Tb_UHxY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LiD1Tb_UHxY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LiD1Tb_UHxY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "From Head To Toe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-20T01:13:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bWtb-Uq0OCi0yJVZh2Ofitix5js",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Zavv0VwdwVk"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-25T17:00:33Z",
+          "channelId": "UC8TjnmfivUw4bLB-VEn0_Sw",
+          "title": "Cheap VS Expensive Outfit #streetwear",
+          "description": "It's a cheap AND expensive outfit in one. Which half wins? *Some of my favourite international stores right now for technical ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zavv0VwdwVk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zavv0VwdwVk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zavv0VwdwVk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "This Is Antwon",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-25T17:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i4utJPfbRZKS0m9Odzns7lc43xs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qGO1iPCnK5E"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-28T13:25:27Z",
+          "channelId": "UCkxg-RowxeuCDxU5WWuYTjg",
+          "title": "What do you think? #2000s #fashion #aesthetic #y2k",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qGO1iPCnK5E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qGO1iPCnK5E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qGO1iPCnK5E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "FragilePunkz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-28T13:25:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JfJxaSf0wGKc0PXuiKiwY_No0t0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vgr2y70Vlk0"
+        },
+        "snippet": {
+          "publishedAt": "2016-09-20T07:41:17Z",
+          "channelId": "UCq-Fj5jknLsUf-MWSy4_brA",
+          "title": "Guru Randhawa: FASHION Video Song | Latest Punjabi Song 2016 | T-Series",
+          "description": "Presenting Guru Randhawa's latest Punjabi song FASHION.The music is composed by Rajat Nagpal and directed by Baljit Singh ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vgr2y70Vlk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vgr2y70Vlk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vgr2y70Vlk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "T-Series",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-09-20T07:41:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8_CE9Pkufzxq7cwsuEs4QrIE9AY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "upY0B9cYL_c"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-09T14:01:03Z",
+          "channelId": "UCgNGROI8ozeA2HY4C1xtPMA",
+          "title": "6 Spring Trends You  Can Style With Clothes You Already Have",
+          "description": "6 low-effort spring 2025 fashion trends you can style with clothes you already own! You're welcome! 1️⃣ Red undershirts ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/upY0B9cYL_c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/upY0B9cYL_c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/upY0B9cYL_c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Marie Christine",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-09T14:01:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Azj7qmpkeBphYs7WbwjW-On2Xjg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lgj1iUuz7Ys"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-09T14:09:07Z",
+          "channelId": "UCR0CyJV8IC_uDnkExOfNYkQ",
+          "title": "INSANE THRIFT WITH ME (i hit jackpot at the thrift)💸🙇🏻\u200d♀️",
+          "description": "INSANE THRIFT WITH ME (i met my fav youtuber) ♡other videos to binge!♡ ✿my guide to glowy and flawless skin: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lgj1iUuz7Ys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lgj1iUuz7Ys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lgj1iUuz7Ys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Emily Ferrier",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-09T14:09:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SS2DsN2VEQvgaSVVIyVfwN643I8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Kz45tYNExZs"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-21T19:22:01Z",
+          "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+          "title": "This vintage wedding dress is looking for a fashion hack #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "andrea's fashion galaxy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-21T19:22:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "__TQnJ-6cEM0V5qtLKMMDsFlvKE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nD3wvRGrE-4"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-11T17:16:06Z",
+          "channelId": "UCoEj4uRzynPXEEegNqMnJVw",
+          "title": "chanel is always something! #fashion #chanel #tyla",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nD3wvRGrE-4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nD3wvRGrE-4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nD3wvRGrE-4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HauteLeMode",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-11T17:16:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "txSFGN1PuxUVU0jFrEilmbxtRH8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_iBBqSJzYA0"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-07T13:01:00Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Did you see that coming?👀 #promdressshopping #formal #fashion #promdress #dress #promdresses",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_iBBqSJzYA0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_iBBqSJzYA0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_iBBqSJzYA0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-07T13:01:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HEa6qenCuofE3EVN5Ge0aSxIbB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yycVNcishrE"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-10T22:00:07Z",
+          "channelId": "UCyTS-kqntjFL_qxt9orBytg",
+          "title": "Britney Manson - FΛSHION (Single, 2023)",
+          "description": "britneymanson #FΛSHION #fashion TRANS TIK-TOK SENSATION, MODEL AND ARTIST BRITNEY MANSON RELEASES ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yycVNcishrE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yycVNcishrE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yycVNcishrE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Britney Manson",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-10T22:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uT4UHo_H1Xdb9whvoKQ1XzqvXKU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GCEKbpc3l5I"
+        },
+        "snippet": {
+          "publishedAt": "2024-11-09T17:36:15Z",
+          "channelId": "UCwJqwMFvC7tGEukLOdpPyWQ",
+          "title": "Budget friendly combo set 7010071148 whatsapp #trending #online #fashion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GCEKbpc3l5I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GCEKbpc3l5I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GCEKbpc3l5I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jasvik creations",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-11-09T17:36:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "53MT8FUchPRwMGZDRzfjR7QJP08",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MWZ0Fd34vgg"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-11T23:32:31Z",
+          "channelId": "UC6lMScVMVc3q93kfgcEDRIA",
+          "title": "fashion trends I HATE (pt 2) #grwm",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MWZ0Fd34vgg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MWZ0Fd34vgg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MWZ0Fd34vgg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tina Colada",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-11T23:32:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qPY-MzrxPuDJV4A0W2bS7N908ME",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GTUwshxDNs8"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-01T20:44:57Z",
+          "channelId": "UCjctn-w_v-7JoHolEUjF5_g",
+          "title": "My 4 Current Favorite Body Chains ✨ #fashion #grwm #ootd #outfit #style #shorts #tutorial #short",
+          "description": "Direct link to shop the outfit: https://liketk.it/48eoi Which piece 1-4 is your favorite!? ✨ the 4th one is an actual top, but you can also ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Lina Noory",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-01T20:44:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "I5xSyy1u8xwsfl5fIoKHhQ81CaE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cguq0Px_QMw"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-17T08:43:00Z",
+          "channelId": "UCpzk53UgdKpfUfrVTsS-Auw",
+          "title": "Inst @ajaygupta3090 Dhoti pant #love #fashion #rat #photooftheday #cute #trending #viralvideo #goa",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cguq0Px_QMw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cguq0Px_QMw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cguq0Px_QMw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ajay Gupta G shorts & fully garment vlog 11",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-17T08:43:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zn_WGr5ght9NWGx3UptdmohGzAw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aB8mflph6oQ"
+        },
+        "snippet": {
+          "publishedAt": "2024-12-02T13:00:00Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "Part Two🤣 #prom #promdresses #formal #formaldresses #dress #dresses #fashion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aB8mflph6oQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aB8mflph6oQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aB8mflph6oQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-12-02T13:00:00Z"
+        }
+      }
+    ]
+  }
+  

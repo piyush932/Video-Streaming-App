@@ -20,20 +20,20 @@ function Sidebar() {
   }
   const menuLinks = [
     { icon: <MdHomeFilled className="icon" />, name: "Home", path: "/" },
-    { icon: <TbMusic className="icon" />, name: "Music", path: `/` },
+    { icon: <TbMusic className="icon" />, name: "Music", path: `/?tag=Music` },
     {
       icon: <MdOutlineSportsVolleyball className="icon" />,
       name: "Sport",
-      path: `/`,
+      path: `/?tag=Sports`,
     },
-    { icon: <TbDeviceGamepad2 className="icon" />, name: "Gaming", path: `/` },
-    { icon: <BiMoviePlay className="icon" />, name: "Movies", path: `/` },
-    { icon: <FaRegNewspaper className="icon" />, name: "News", path: `/` },
-    { icon: <TbHanger className="icon" />, name: "Fashion", path: `/` },
+    { icon: <TbDeviceGamepad2 className="icon" />, name: "Gaming", path: `/?tag=Gaming` },
+    { icon: <BiMoviePlay className="icon" />, name: "Movies", path: `/?tag=Movies` },
+    { icon: <FaRegNewspaper className="icon" />, name: "News", path: `/?tag=News` },
+    { icon: <TbHanger className="icon" />, name: "Fashion", path: `/?tag=Fashion` },
     {
       icon: <MdOutlineLightbulb className="icon" />,
       name: "Course",
-      path: `/`,
+      path: `/?tag=Course`,
     },
   ];
 

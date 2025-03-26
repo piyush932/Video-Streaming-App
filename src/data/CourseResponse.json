@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "cBOwIxpeyhzcdciPXtIEMjeMQ_c",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nQ1vGKwQqMuZMeWJMMqmd79Mw_c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qrlBAQjNDjE"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-13T12:27:41Z",
+          "channelId": "UC_QpDH_oeU0jXIjIQh6lKNA",
+          "title": "5 Short Term Courses | Online Courses | Certification Courses | Skill Based Courses",
+          "description": "Short Term Courses after Plus Two | Online Courses | Certification Courses | Skill Based Courses REGISTER FOR UPCOMING ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qrlBAQjNDjE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qrlBAQjNDjE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qrlBAQjNDjE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sreevidhya Santhosh",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-13T12:27:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BS63ZD0hQiQvWy_5SyaSY36VWqI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M1spVCAHS2w"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-13T11:30:19Z",
+          "channelId": "UCO4jErOEoEHocB3J5KV3DeA",
+          "title": "പെട്ടന്ന് ജോലി കിട്ടാൻ ഏതു എടുക്കണം - Professional or Degree Course? #courses #smet #originals",
+          "description": "Professional vs Degree Courses: Which Will Get You a Job Faster? Are you confused about whether to choose a professional ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M1spVCAHS2w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M1spVCAHS2w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M1spVCAHS2w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "St. Mary's Education Trust - SMET Official",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-13T11:30:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VM0z-HcNlttTjuaYb-MCWUUP4KI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lGg3VF2RScI"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T05:54:28Z",
+          "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+          "title": "DevOps Course | DevOps Full Course 2025 | DevOps Training | DevOps Complete Tutorial | Intellipaat",
+          "description": "Register for Intellipaat's DevOps Course: https://intellipaat.com/devops-certification-training/ #DevOpsCourse #DevOpsFullCourse ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lGg3VF2RScI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lGg3VF2RScI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lGg3VF2RScI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Intellipaat",
+          "liveBroadcastContent": "live",
+          "publishTime": "2025-03-26T05:54:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PfC37VWixyBgFLpfcBvmds2l6QI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O_Ne1mMbQx0"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-10T16:12:17Z",
+          "channelId": "UCsQ6_w5iUOUOMAUPclg2kcg",
+          "title": "FREE Online Courses ✅ Get Certified &amp; Job-Ready in 2025!",
+          "description": "Free course with certificate to boost your resume & skills in 2025! But will all freshers get well-paid jobs? Nahi! Aaj jaanenge ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O_Ne1mMbQx0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O_Ne1mMbQx0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O_Ne1mMbQx0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Skillsiya",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-10T16:12:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IWQAzX-d-QJJahk4cESdQxZNe9g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t_VDx0lBBcg"
+        },
+        "snippet": {
+          "publishedAt": "2024-10-20T05:08:17Z",
+          "channelId": "UCl0MN4CALU7mJ1clo4Ulszg",
+          "title": "Best Diploma Course After 12th #courses #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t_VDx0lBBcg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t_VDx0lBBcg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t_VDx0lBBcg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Prabhat Exam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-10-20T05:08:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yoJGpqH8xoy8fzGb6ogqOcfxdt0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1bQrvMEJtDs"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T17:47:37Z",
+          "channelId": "UCx5kmyzTo-UOwu20PhGa8KA",
+          "title": "FREE ENGLISH COURSE | Phase 2 की दूसरी Class | 11 दिन 11 मैराथन|English with SUMAN SURYAVANSHI MA&#39;AM",
+          "description": "FREE ENGLISH COURSE | Phase 2 की दूसरी Class | 11 दिन 11 मैराथन |English with SUMAN SURYAVANSHI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1bQrvMEJtDs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1bQrvMEJtDs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1bQrvMEJtDs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ocean Gurukuls",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T17:47:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J9Q9qUosKEvyjIdmaIYx4BvARRs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vMV1s-1BKvc"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-18T10:30:27Z",
+          "channelId": "UCvknEk1Bjmep7Ebv6QrJGSg",
+          "title": "Python courses for Beginners (FREE)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vMV1s-1BKvc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vMV1s-1BKvc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vMV1s-1BKvc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Broke Brothers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-18T10:30:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AG8KlLrNeDSCoE-7tv4fXKaR03Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xA336mSAGkk"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-09T11:15:06Z",
+          "channelId": "UCvknEk1Bjmep7Ebv6QrJGSg",
+          "title": "FREE A.I. courses for STUDENTS!!!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xA336mSAGkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xA336mSAGkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xA336mSAGkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Broke Brothers",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-09T11:15:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VJ0-h7zQbzivH__ogH7aVllcCMQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL0hkf9Bo4i_VYLSdv_JpyGxx2o7VVjowm"
+        },
+        "snippet": {
+          "publishedAt": "2023-03-08T10:58:14Z",
+          "channelId": "UCC_ycdL5_Rw9b6UEmtmUE3g",
+          "title": "Master Class by HBA Services (Paid Courses For Free)",
+          "description": "100+ Courses For Free (Digital Marketing, Fiverr, Freelancing, Instagram Marketing, Affiliate Marketing, YouTube Courses, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zREv-G8E0zw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zREv-G8E0zw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zREv-G8E0zw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "HBA Services",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-03-08T10:58:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9SXwGRMArTZIiskx2ktEk0HePwI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oCOWgCxdM7s"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-10T12:49:09Z",
+          "channelId": "UC0KMy2IyOb8BHz05Kxz-YCQ",
+          "title": "FREE GOOGLE COURSES !!! Earn 50k plus 👌🏻😱",
+          "description": "Coaching - Join the “Train with Sethu” Personal Training program! TO BECOME THE NEW YOU   Website: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oCOWgCxdM7s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oCOWgCxdM7s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oCOWgCxdM7s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sethu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-10T12:49:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t5mFtwOea0LjuRvSYUjZMmRfnG4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DzCWyUCr9LQ"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-02T15:30:03Z",
+          "channelId": "UCM0--k8uumfySc926W-ydlg",
+          "title": "FREE AI Courses worth ₹50 Lakhs 🤩💰#shorts",
+          "description": "shorts Unlock Your Future with AI: A Courses Even Recommended by Modi Ji! Save this Video Now! I'm about to share ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DzCWyUCr9LQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DzCWyUCr9LQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DzCWyUCr9LQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CUET by Gokul Chhabra",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-02T15:30:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ohtV5iNskV8wvfS6fxVkDAlBCjo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8T7Sl6QLnqM"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-07T14:30:03Z",
+          "channelId": "UCYoUuK_uXILQmvip-6jDZ-A",
+          "title": "8 FREE Online Courses! Try Them Now",
+          "description": "1. Checkout Geeks For Geeks : https://bit.ly/4e2MeH4 2. Google Ads Certification: https://skillshop.docebosaas.com/learn/signin 3.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8T7Sl6QLnqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8T7Sl6QLnqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8T7Sl6QLnqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Vaibhav Kadnar",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-07T14:30:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Rcb022HvrAA2KjzlUf3KM0chG4w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r7eFTwsQQww"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-26T01:50:35Z",
+          "channelId": "UCxj30E1j1SsLU-M86PHbO5g",
+          "title": "Full Syllabus Revision with all Imp. Questions | LIVE | 80/80 In Class 12 Accounts Board Exam 2025.",
+          "description": "EXAM GAP REVISION IN ACCOUNTANCY BOARD EXAM 2025 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r7eFTwsQQww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r7eFTwsQQww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r7eFTwsQQww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sunil Panda-The Educator",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-26T01:50:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0pL91XDqooZMhhFAqJhUDskHVLc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dlCGYstyz3U"
+        },
+        "snippet": {
+          "publishedAt": "2024-04-04T07:47:02Z",
+          "channelId": "UCVhLjuXs5z5ZYJBxpeRbI1g",
+          "title": "What to do After 12th Commerce? Best Accounting Courses - Career Options, Opportunities",
+          "description": "bcom #commerce #commercejobs #ca #acca #cfa #cmausa #cpa #cpausa #commercecareer #bcomjobs #commercecourse.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dlCGYstyz3U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dlCGYstyz3U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dlCGYstyz3U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NorthStar Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-04-04T07:47:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i1YkkbRzAu2oodIeDqeA5hdZs48",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xsVTqzratPs"
+        },
+        "snippet": {
+          "publishedAt": "2021-05-19T12:30:18Z",
+          "channelId": "UCWquNQV8Y0_defMKnGKrFOQ",
+          "title": "Complete SEO Course for Beginners: Learn to Rank #1 in Google",
+          "description": "Learn how to do search engine optimization in our complete SEO training course for beginners. Subscribe ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xsVTqzratPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xsVTqzratPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xsVTqzratPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ahrefs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-05-19T12:30:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rRBR9Dw6aA4m_7GRRH6-iTLWGmM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uVKK5B8XAug"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-20T14:33:37Z",
+          "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+          "title": "The 1 COURSE to Learn to Code for FREE in 2025 🔥",
+          "description": "Ishan Sharma: The 1 COURSE To Learn To Code for FREE in 2025 CS50 is by far my fav course to learn coding as a beginner.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uVKK5B8XAug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uVKK5B8XAug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uVKK5B8XAug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ishan Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-20T14:33:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x6BXK41wahIW2VpnOoTGaFAUZB8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S5KUpTgoSco"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-27T15:30:10Z",
+          "channelId": "UCFmHrI6SoMlqcqsVVJ4VCVQ",
+          "title": "Top AI courses that you can take for free",
+          "description": "Al will not replace people but people who can use Al will replace those who cannot!   No matter who you are, you need to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S5KUpTgoSco/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S5KUpTgoSco/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S5KUpTgoSco/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Scholar Strategy by Nistha Tripathi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-27T15:30:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HGWTX23Zg5tku1MHWcnk4hVdCN0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MBtOEQ2kr8g"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-25T02:30:12Z",
+          "channelId": "UCxj30E1j1SsLU-M86PHbO5g",
+          "title": "Last Day Strategy | Bus Itna Karlo | 100% Pass in Class 12 Accounts Boards 2025 | MUST DO THIS TODAY",
+          "description": "03 PREMIUM MOCK TEST ACCOUNTS 26 MARCH 2025 PAPER ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MBtOEQ2kr8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MBtOEQ2kr8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MBtOEQ2kr8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sunil Panda-The Educator",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-25T02:30:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SzSubQmhSPOpzVhmWQzqX9p8TbI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Lst0kA4KNRY"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-08T04:08:58Z",
+          "channelId": "UCVTphldN2CzF0f_E8VHygNg",
+          "title": "Advance Beautician course,threading practice time #shorts #shortreel #shortreelvideo #rupsmakeover",
+          "description": "Beautician course,threading practice time #shorts #shortreel #shortreelvideo #rupsmakeover.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Lst0kA4KNRY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Lst0kA4KNRY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Lst0kA4KNRY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rups Makeover",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-08T04:08:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Dc7nChrQqaqyAiJfxmxkLtkI8_U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OKYduzpm9Hw"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-03T11:56:55Z",
+          "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+          "title": "Learn AI in Just 3 HOURS 🚀| ChatGPT &amp; Generative AI | Ishan Sharma #shorts",
+          "description": "BEST FREE AI Course For EVERYONE | Ishan Sharma Instagram: https://bit.ly/ishansharma7390ig Join MarkitUpX Discord ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OKYduzpm9Hw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OKYduzpm9Hw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OKYduzpm9Hw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ishan Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-03T11:56:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "u43KzbknZ_tOdJYpln8Lt8f-t3k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1IQGNOTK4vI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T10:45:00Z",
+          "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+          "title": "BEST FREE UI/UX Design Courses You MUST TAKE ✅ | Ishan Sharma #shorts",
+          "description": "BEST FREE UI/UX Design Courses You MUST TAKE ✓ | Ishan Sharma #shorts Instagram: https://bit.ly/ishansharma7390ig ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1IQGNOTK4vI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1IQGNOTK4vI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1IQGNOTK4vI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ishan Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T10:45:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DNXewQnpkG-oAGLnK1K6w5BVekI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Eb9iDAjJqHc"
+        },
+        "snippet": {
+          "publishedAt": "2024-08-03T09:30:03Z",
+          "channelId": "UCQHZCgB3fq_y0FNWtyRoxLw",
+          "title": "Blend English Vocabulary and See How It Goes! #learnenglish",
+          "description": "In this English class, we will focus on speaking English practice and study English fast. With my guidance, you can improve your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Eb9iDAjJqHc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Eb9iDAjJqHc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Eb9iDAjJqHc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Enjoy English With Bahar",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-08-03T09:30:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MHexQBl4WLpm8oElP11l3IEN48I",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLjVLYmrlmjGejs6AFv8lgJj3t47ScLuvw"
+        },
+        "snippet": {
+          "publishedAt": "2021-04-29T09:17:52Z",
+          "channelId": "UC0T6MVd3wQDB5ICAe45OxaQ",
+          "title": "Popular Free Courses for Beginners to Pro",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kunkYTKFNtI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kunkYTKFNtI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kunkYTKFNtI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WsCube Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2021-04-29T09:17:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rWmh1fztUPmBOEfS4ZoUFYZXrnY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EvqtfK_RaRg"
+        },
+        "snippet": {
+          "publishedAt": "2025-01-10T17:00:00Z",
+          "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+          "title": "This obstacle course is WILD",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EvqtfK_RaRg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EvqtfK_RaRg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EvqtfK_RaRg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MrBeast",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-01-10T17:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xwA_pguHbKKnB_jjpHVvhUm1w0M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gyO8jiHg1YU"
+        },
+        "snippet": {
+          "publishedAt": "2023-10-12T17:13:00Z",
+          "channelId": "UCUFMgUDsqQnWFDBxUbBHR3g",
+          "title": "65000 free courses and free certificates about anything you want!! #onlinecourses #freecourses",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gyO8jiHg1YU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gyO8jiHg1YU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gyO8jiHg1YU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Simply Digital",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-10-12T17:13:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RM3ErARSItiTqi9N6p3bA1xBPhQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bqntaJ-Yz04"
+        },
+        "snippet": {
+          "publishedAt": "2023-05-06T12:29:25Z",
+          "channelId": "UCoaEnNXeMbW-pCUD4Ni9v6g",
+          "title": "BEST DEFENCE ACADEMY IN DEHRADUN | NDA FOUNDATION COURSE AFTER 10TH | NDA COACHING #shorts #nda #ssb",
+          "description": "Why Choose Brigadier Defence Academy Dehradun *Founded by defence officers to guide students to become defence officers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bqntaJ-Yz04/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bqntaJ-Yz04/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bqntaJ-Yz04/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brigadier Defence Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-05-06T12:29:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HF-pSUWFaXsXWfCEPZGqJtE3NY0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5-r0QhiX8RU"
+        },
+        "snippet": {
+          "publishedAt": "2025-02-10T11:00:05Z",
+          "channelId": "UCJt6vOyjbJrG6Wu3uoHzz3A",
+          "title": "Delicious watermelon dishes🍉, first course and cake. #candy #food",
+          "description": "Delicious watermelon dishes  , first course and cake. #candy #food.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5-r0QhiX8RU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5-r0QhiX8RU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5-r0QhiX8RU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "quyen nguyen",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-02-10T11:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "erM1ZovVw_h8uL2FTUaUjGHDFP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ge_YS8FFVuM"
+        },
+        "snippet": {
+          "publishedAt": "2023-08-18T06:30:07Z",
+          "channelId": "UCfbqT0AMj_EprqAsp3JF6Tg",
+          "title": "TOP 10 HIGH SALARY Engineering Course | Best Engineering Jobs 2023",
+          "description": "TOP 10 High Salary Engineering Course | Best Engineering Jobs 2023 top 10 high salary engineering course top 10 engineering ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ge_YS8FFVuM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ge_YS8FFVuM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ge_YS8FFVuM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MRS CAREER GUIDE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-08-18T06:30:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oNG6Rwm8Cq2ynUQd7yfJSVIn29k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GQS7wPujL2k"
+        },
+        "snippet": {
+          "publishedAt": "2023-11-15T15:00:11Z",
+          "channelId": "UC8lxnUR_CzruT2KA6cb7p0Q",
+          "title": "Graphic Design Basics | FREE COURSE",
+          "description": "So you want to be a graphic designer? Learn the fundamentals of design in this graphic design basics course. ▻ The broadest ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GQS7wPujL2k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GQS7wPujL2k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GQS7wPujL2k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Envato Tuts+",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-11-15T15:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-mu8kPOZrHQm6uwUVOGFg5NPhzE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "u2JHRiViBLE"
+        },
+        "snippet": {
+          "publishedAt": "2025-03-16T13:58:47Z",
+          "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+          "title": "Google’s FREE Prompt Engineering Course 🔥",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u2JHRiViBLE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u2JHRiViBLE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u2JHRiViBLE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ishan Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2025-03-16T13:58:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IUs-0ViS5_8rmBDOn_M557Rmh9I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-Rzy154o9ZA"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-01T12:53:22Z",
+          "channelId": "UCVhLjuXs5z5ZYJBxpeRbI1g",
+          "title": "After BCom/BBA Best Professional Courses in India - Salary after CMA USA, CPA, ACCA, CFA, EA",
+          "description": "What are the best job opportunities or courses after completing B.Com degree? Find out in this short video. #bcom #commerce ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Rzy154o9ZA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Rzy154o9ZA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Rzy154o9ZA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "NorthStar Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-01T12:53:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ssn6hL4zfZxiM09PXKWt6RWiZW8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nWPr9E6I2qo"
+        },
+        "snippet": {
+          "publishedAt": "2023-12-12T12:49:36Z",
+          "channelId": "UCVCnm4MVWk0snJ5E1xmKQBQ",
+          "title": "Top 5 aviation courses After 10+2 #education #aviation #iit #pilot",
+          "description": "The top aviation courses typically focus on various aspects of the aviation industry, from piloting to aircraft maintenance. Here are ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nWPr9E6I2qo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nWPr9E6I2qo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nWPr9E6I2qo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AME CET",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-12-12T12:49:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Ea2SSah2hPSuHPoaSyKPDiromg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S7XTL3-UMIw"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-01T05:05:33Z",
+          "channelId": "UCJVuc1cwTm4KcseYqLx1y5g",
+          "title": "OF COURSE I’M DELUSIONAL ‼️ #Joy #InsideOut #insideout2 #illusionmakeup #makeuptransformation #art",
+          "description": "Delusional? OF COURSE I'M DELUSIONAL!!” Jiminy, mother-loving, toaster-strudel!” 'JOY' Inside Out Illusion Makeup ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S7XTL3-UMIw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S7XTL3-UMIw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S7XTL3-UMIw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TheFauxChanel Makeup",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-01T05:05:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o4fVcOLcmHbu48pJ0uXpjSXG4sA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "swKLHHxfvms"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-26T05:28:16Z",
+          "channelId": "UCikTFMcvZqaS4_ogjpB6CuA",
+          "title": "Classroom activity",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/swKLHHxfvms/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/swKLHHxfvms/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/swKLHHxfvms/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rhymes Time",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-26T05:28:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_qvj0kbm6MKHolVXha_GoKJmUx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eXcsSi5y7p0"
+        },
+        "snippet": {
+          "publishedAt": "2024-06-17T11:30:17Z",
+          "channelId": "UCaTV8HRt51_H-LHHoiInHEg",
+          "title": "💥Best Free AI Courses for Beginners! Must Do Courses for MBA Students☑️#mba #artificialintelligence",
+          "description": "Get Free MBA Career Counseling: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eXcsSi5y7p0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eXcsSi5y7p0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eXcsSi5y7p0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MBA Fundas by Sunstone",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-06-17T11:30:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AcDQfWHV74f9JsW64YHP2RXe7M4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Vl0H-qTclOg"
+        },
+        "snippet": {
+          "publishedAt": "2020-10-28T13:09:30Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Microsoft Excel Tutorial for Beginners - Full Course",
+          "description": "Lean how to use Microsoft Excel from the beginning by creating 6 real-world projects. Most of the content applies to Google ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vl0H-qTclOg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vl0H-qTclOg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vl0H-qTclOg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-10-28T13:09:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jL6RgC5Eaek8A4i4ko_lywwPmwg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TLgp0yW8Bbc"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-10T04:45:54Z",
+          "channelId": "UCUqf-EOtYF6t4qjw82-CztA",
+          "title": "Diploma Cake Course at #virar ☎️9011230205 #cakeclass #cakelovers #cake #trendingcake #fondantcakes",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TLgp0yW8Bbc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TLgp0yW8Bbc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TLgp0yW8Bbc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sunita's Cakes & Cooking Classes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-10T04:45:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s4Kbu_ICw3cICj-X8opHFbAUcM0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1XPbQ4RiqgQ"
+        },
+        "snippet": {
+          "publishedAt": "2024-03-19T11:34:18Z",
+          "channelId": "UCY6N8zZhs2V7gNTUxPuKWoQ",
+          "title": "5 FREE Online Courses Students Must Do in 2024 🔥| Ishan Sharma #shorts",
+          "description": "5 FREE Online Courses Students Must Do in 2024 | Ishan Sharma Instagram: https://bit.ly/ishansharma7390ig Join ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1XPbQ4RiqgQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1XPbQ4RiqgQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1XPbQ4RiqgQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ishan Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-03-19T11:34:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1EeduTMh_d-wSs5emCvRpGd5aY8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O5nskjZ_GoI"
+        },
+        "snippet": {
+          "publishedAt": "2017-02-22T22:00:02Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Early Computing: Crash Course Computer Science #1",
+          "description": "Hello, world! Welcome to Crash Course Computer Science! So today, we're going to take a look at computing's origins, because ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O5nskjZ_GoI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O5nskjZ_GoI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O5nskjZ_GoI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-02-22T22:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sHoGuOaX_sj4Bxy6N2OztfHCKDE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR"
+        },
+        "snippet": {
+          "publishedAt": "2016-02-08T23:17:24Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Philosophy",
+          "description": "In 46 episodes, Hank Green will teach you philosophy! This course is based on an introductory Western philosophy college level ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BNYJQaZUDrI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BNYJQaZUDrI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BNYJQaZUDrI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-02-08T23:17:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MhGSXJkw3K0Q2QfpEij2HZB1H20",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo"
+        },
+        "snippet": {
+          "publishedAt": "2017-02-15T20:00:30Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Computer Science",
+          "description": "In 40 episodes, Carrie Anne Philbin teaches you computer science! This course is based on introductory college-level material as ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tpIctyqH29Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tpIctyqH29Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tpIctyqH29Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-02-15T20:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ao-tAjNK-Gr7me0FhhhzsUK9Gkk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gNQo7SeCwJw"
+        },
+        "snippet": {
+          "publishedAt": "2024-02-04T05:51:02Z",
+          "channelId": "UCfcUyr37wdoRVs13fhFFR5w",
+          "title": "Job चाहिए तो देखो | excel tutorial | #excel #shortfeed #exceljob #job",
+          "description": "Job चाहिए तो देखो | excel tutorial | #excel #shortfeed #exceljob #job Ms Excel spreadsheet Excel tutoring excel tips ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gNQo7SeCwJw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gNQo7SeCwJw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gNQo7SeCwJw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "JICT JAGRITICOMPUTER",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-02-04T05:51:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bsUm9J8qenSQ04CdFLQmFXjqwkg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "e1NPKt9T3zw"
+        },
+        "snippet": {
+          "publishedAt": "2024-07-12T10:14:39Z",
+          "channelId": "UC0wVq49OXsp2cqC4KSZLjVA",
+          "title": "Digital Marketing Course Malayalam | For Beginners | Online Free Course | Full Course fees",
+          "description": "Digital Marketing Course Malayalam | For Beginners | Online Free Course | Full Course fees Neuro Digital Marketing & Brand ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e1NPKt9T3zw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e1NPKt9T3zw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e1NPKt9T3zw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ibis Group of Educational Institutions",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-07-12T10:14:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "klhG0G8hUTuLZ_pMNktTgFZiHH0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cifjj_zrxRg"
+        },
+        "snippet": {
+          "publishedAt": "2023-04-18T10:05:11Z",
+          "channelId": "UCrZGKtx0Vl97vTynXfBhm4w",
+          "title": "Important full forms degrees, Course, Certificate etc. #mba #ma #ssc #bcom #fullform #gk #shorts",
+          "description": "Important full forms degrees, Course, Certificate etc. #mba #ma #ssc #bcom #fullform #gk #shorts . . . . . . Tags for video related ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cifjj_zrxRg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cifjj_zrxRg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cifjj_zrxRg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Learn with Ishfak",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-04-18T10:05:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GpHBkSPPgbu6A-_7K-EgrxEDWGo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr"
+        },
+        "snippet": {
+          "publishedAt": "2013-02-24T15:48:50Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Chemistry",
+          "description": "In 46 episodes, Hank Green will teach you chemistry! This course is mostly based on the 2012 AP Chemistry curriculum, but it also ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uVFCOfSuPTo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uVFCOfSuPTo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uVFCOfSuPTo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-02-24T15:48:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SfEhn7n5FjfeB3ZATjwMoxFgovw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLBDA2E52FB1EF80C9"
+        },
+        "snippet": {
+          "publishedAt": "2012-01-26T19:37:18Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "World History",
+          "description": "In 42 episodes, John Green will begin teaching you the history of the world! This course is based on the 2012 AP World History ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yocja_N5s1I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yocja_N5s1I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yocja_N5s1I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2012-01-26T19:37:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ePmUMyzeQiCPui1dBHTwRgbhKBY",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV"
+        },
+        "snippet": {
+          "publishedAt": "2016-03-31T22:03:47Z",
+          "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+          "title": "Physics",
+          "description": "In 46 episodes, Dr. Shini Somara will help you find your place in the world -- literally! -- with physics. This course is based on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OoO5d5P0Jn4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OoO5d5P0Jn4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OoO5d5P0Jn4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CrashCourse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-03-31T22:03:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "e2SKZOzO4syRremhui3zXic8ho8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OCjugYGddCs"
+        },
+        "snippet": {
+          "publishedAt": "2024-05-07T13:28:05Z",
+          "channelId": "UCDyqET2kjwf_1vN0fd5Q9_g",
+          "title": "Get Free Courses With Certificate #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OCjugYGddCs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OCjugYGddCs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OCjugYGddCs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Karan Lohiaa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-05-07T13:28:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6m1G7kfntqOgbEbN-wstlUNE7DE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mmVaKcM_vrw"
+        },
+        "snippet": {
+          "publishedAt": "2024-02-15T04:48:58Z",
+          "channelId": "UCkcqmxjMXaBb0kDWqqSEU1g",
+          "title": "Top 5 programming courses",
+          "description": "Course links: 1. CS 50: https://www.youtube.com/watch?v=8mAITcNt710 2. 100 Days of Code: https://tinyurl.com/100-days-code 3.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mmVaKcM_vrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sahil & Sarra",
+          "liveBroadcastContent": "none",
+          "publishTime": "2024-02-15T04:48:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iDiG-o0uF0xVubpPIAb-cIJq-FY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i_LwzRVP7bg"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-26T16:00:28Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Machine Learning for Everybody – Full Course",
+          "description": "Learn Machine Learning in a way that is accessible to absolute beginners. You will learn the basics of Machine Learning and how ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i_LwzRVP7bg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-26T16:00:28Z"
+        }
+      }
+    ]
+  }
+  

@@ -1,4 +1,4 @@
-function timeAgo(isoString) {
+export function timeAgo(isoString) {
   const time = new Date(isoString);
   const now = new Date();
   const diff = Math.floor((now - time) / 1000);
@@ -21,11 +21,11 @@ function timeAgo(isoString) {
   return "just now";
 }
 
-function truncateText(text, maxLength = 80) {
+export function truncateText(text, maxLength = 80) {
   return text.length > maxLength ? text.substring(0, maxLength) + "..." : text;
 }
 
-function formatViews(viewCount) {
+export function formatViews(viewCount) {
   if (viewCount >= 1e9) {
     return (viewCount / 1e9).toFixed(1).replace(/\.0$/, "") + "B views";
   }
@@ -38,12 +38,31 @@ function formatViews(viewCount) {
   return viewCount + " views";
 }
 
-function truncateTitle(title, maxLength = 30) {
+export function truncateTitle(title, maxLength = 30) {
   if (title.length > maxLength) {
     return title.substring(0, maxLength) + "...";
   }
   return title;
 }
 
-export default { timeAgo, truncateText, formatViews, truncateTitle };
+export const formatVideoDuration = (duration) => {
+  const match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/);
+
+  if (!match) return "00:00";
+
+  const hours = (match[1] || "0H").slice(0, -1);
+  const minutes = (match[2] || "0M").slice(0, -1);
+  const seconds = (match[3] || "0S").slice(0, -1);
+
+  const formattedTime = [
+    hours > 0 ? hours.padStart(2, "0") : null,
+    minutes.padStart(2, "0"),
+    seconds.padStart(2, "0"),
+  ]
+    .filter(Boolean)
+    .join(":");
+
+  return formattedTime;
+};
+
 

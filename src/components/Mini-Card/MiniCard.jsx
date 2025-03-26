@@ -1,19 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./MiniCard.css";
-
-const formatViews = (viewCount) => {
-  if (viewCount >= 1e6) return (viewCount / 1e6).toFixed(1) + "M views";
-  if (viewCount >= 1e3) return (viewCount / 1e3).toFixed(1) + "K views";
-  return `${viewCount} views`;
-};
-
-function truncateTitle(title, maxLength = 30) {
-  if (title.length > maxLength) {
-    return title.substring(0, maxLength) + "...";
-  }
-  return title;
-}
+import { formatViews, truncateTitle,formatVideoDuration } from "../../utils/functions";
 
 const MiniCard = ({ item }) => {
   const {
@@ -27,6 +15,7 @@ const MiniCard = ({ item }) => {
     <Link to={`/watch/?v=${id}`} className="mini-card">
       <div className="mini-card-container">
         <div className="thumbnail-container">
+          {/* <div className="minicard-video-duration">{formatVideoDuration(duration)}</div> */}
           <img
             src={thumbnails.medium.url}
             className="video-thumbnail"

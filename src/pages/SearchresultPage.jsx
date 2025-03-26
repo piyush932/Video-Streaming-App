@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Link,useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import "../CSS/SearchresultPage.css";
 import SearchresultCard from "../components/SearchResultCard/SearchresultCard";
 import Loading from "../components/Loading/Loading";
@@ -36,9 +36,9 @@ const SearchResultsPage = () => {
       </h2>
       <div className="search-video-list">
         {videos.length > 0 ? (
-          videos.map((video) => (
-            <Link to={`/watch/?v=${video.id.videoId}`}>
-              <SearchresultCard key={video.id.videoId} info={video} />
+          videos.map((video, id) => (
+            <Link to={`/watch/?v=${video.id.videoId}`} key={id}>
+              <SearchresultCard info={video} />
             </Link>
           ))
         ) : (
