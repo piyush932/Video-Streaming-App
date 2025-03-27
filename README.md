@@ -32,7 +32,7 @@ This project is a **fully responsive** YouTube UI clone built using **React.js ,
     - Displays a list of **suggested videos** on the right.  
     - Clicking on a video opens the **Video Details Page**.
 
-## 🔥 Unique Feature 
+## 🔥 Unique Features
 ### 🏆 Channel Page  
 - Displays **channel details** including:  
   - 📸 **Channel banner & profile picture**  
@@ -40,6 +40,14 @@ This project is a **fully responsive** YouTube UI clone built using **React.js ,
 - Lists **all videos uploaded by the channel**.  
 - Implements **infinite scrolling** for seamless browsing.  
 - Uses a **custom hook** for efficient and dynamic data fetching. 
+
+### Shimmer UI 
+- Enhances user experience with a smooth loading effect.
+
+### Infinite Scrolling 
+- Enhances user experience with Infinite scrolling feature with channel videos data.
+
+##
 
 #### 🔍 Search Functionality  
 - Users can type **keywords** in the search bar.  
@@ -68,33 +76,60 @@ This project is a **fully responsive** YouTube UI clone built using **React.js ,
 
 ## 🔗 Deployment  
 🚀 Hosted on **Netlify**  
-Check out the live version here: **[Netlify/Vercel Link](#)**
+- Check out the live version here: **[https://youtubeapp-ui.netlify.app/]**
+- Checkout code at **[https://github.com/piyush932/Video-Streaming-App]**
 
 # App Structure
 
 
 - src
   - assets
-  - componrnts
-    - MenuItems
+  - components
     - ChannelVideo
-    - Comments-Container
+    - Comments-Container **(Shows List of comments and their replies)**
     - Loading
     - Mini-Card
     - Navbar
     - SearchResultCard
-    - Shimmer-UI
+    - Shimmer-UI **(Provide Shimmer Effect when loading data)**
     - Sidebar
-    - Tags-Container
-    - Videos-Container
-    - VideoTitle
+    - Tags-Container **(Shows List of Tags for searching videos)**
+    - Videos-Container **(Shows List of Homepage Videos)**
+    - VideoTitle **(Video Title component in WatchVideo Page)**
   - context
   - CSS
   - data
   - Hooks
   - pages
+    - Body.jsx
+    - Channel.jsx
+    - Container.jsx
+    - Layout.jsx
+    - SearchresultPage.jsx
+    - Signin.jsx
+    - WatchVideo.jsx
   - Redux
     - Reducers
+
+### Main UI Components
+
+- **WatchVideo.jsx**: Video Page of selected Video.
+- **SearchresultPage.jsx**: Shows videos list according to tag searched .
+- **Channel.jsx**: Shows channel data like description ,subscribers and all videos uploaded till now.
+- **Signin.jsx**: Authentication Page for user .
+
+---
+
+## State Management & Data Flow
+
+The application follows a structured approach for handling UI state and data flow:
+
+- **Local State (useState)**: Used for handling small UI interactions (e.g., like Liking video,show description,show channel info etc).
+- **Global State (Redux)**: Used for handling sidebar component .
+- **Context API (useContext)**: Used for handling dark mode functionality .
+- **Custom Hook (useChannel)**: Used for merging data effectively from the API combining videos data with channel IDs .
+
+---
 
 
 ## 📂 Custom Data Files  
@@ -235,6 +270,19 @@ Run the following command to launch the ReactJS project in your local environmen
  npm run dev
 ```
 
+## Testing and Debuging
+
+Each module can be tested using the jest library for rendering compoents , displaying UI  and updation of state variables
+
+## Future Enhancements
+- Implement authentication and user profiles.
+- Improve the live chat feature with WebSockets.
+- Add extra functionality like adding Playlist options in Channel section .
+- Add video upload functionality
+
+## Conclusion
+This project is a minimal frontend-only clone of Youtube designed to simulate a real video streaming platform experience.It serves as a strong foundation for further enhancements, including real-time interactions and authentication. 
+
 ### Screen Shots
 | ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Laptop(L).png)  | 
 | --- |
@@ -248,7 +296,7 @@ Run the following command to launch the ReactJS project in your local environmen
 | ![Screenshot 9](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Laptop.png)  | 
 | ![Screenshot 10](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Laptop.png)  | 
 
-### Mobbile Screen Shots
+### Mobile Screen Shots
 | ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(L).png) |![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(M).png) | ![Screenshot 3](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(S).png) |
 | --- | --- | --- |
 | ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Mobile.png) | ![Screenshot 5](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Mobile(M).png) | ![Screenshot 6](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Sidecontainer-Mobile.png) |
@@ -257,3 +305,5 @@ Run the following command to launch the ReactJS project in your local environmen
 | ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Tablet.png) |![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Tablet.png) 
 | --- | --- |
 | ![Screenshot 3](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Tablet.png) | ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SearchPage-Tablet.png) |
+
+
