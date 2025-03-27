@@ -256,4 +256,4 @@ Run the following command to launch the ReactJS project in your local environmen
 ### Tablet Screen Shots
 | ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Tablet.png) |![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Tablet.png) 
 | --- | --- |
-| ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Tablet.png) | ![Screenshot 5](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SearchPage-Tablet)
+| ![Screenshot 3](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Tablet.png) | ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SearchPage-Tablet.png) |
