@@ -70,6 +70,33 @@ This project is a **fully responsive** YouTube UI clone built using **React.js ,
 🚀 Hosted on **Netlify**  
 Check out the live version here: **[Netlify/Vercel Link](#)**
 
+# App Structure
+
+
+- src
+  - assets
+  - componrnts
+    - MenuItems
+    - ChannelVideo
+    - Comments-Container
+    - Loading
+    - Mini-Card
+    - Navbar
+    - SearchResultCard
+    - Shimmer-UI
+    - Sidebar
+    - Tags-Container
+    - Videos-Container
+    - VideoTitle
+  - context
+  - CSS
+  - data
+  - Hooks
+  - pages
+  - Redux
+    - Reducers
+
+
 ## 📂 Custom Data Files  
 
 This project utilizes **predefined JSON datasets** to simulate YouTube API responses for different categories. These datasets are stored in the `data` folder and help in rendering category-specific videos without making actual API calls.  
@@ -151,26 +178,82 @@ The application dynamically imports these JSON files to populate different **cat
 | Parameter | Method   | Body | Description                          |
 | :-------- | :------- |:------- |:-------------------------         |
 | `?key={API_KEY}&part=snippet,contentDetails,statistics&id={channelId}` | `GET` |         |Fetches details of a specific channel|
-| `?key={API_KEY}&part=snippet,contentDetails,statistics&id={channelIds}` | `GET` |         |Fetches details of multiple channels
-|
+| `?key={API_KEY}&part=snippet,contentDetails,statistics&id={channelIds}` | `GET` |         |Fetches details of multiple channels|
 
+## Getting Started ▶️
 
-### Setup the project
+Follow these steps to set up and run the project on your local machine.
 
- - Download this template from github and open it in your favourite text editor. 
- - Go inside the folder path and execute the following command:
-  ```
-  npm install
-  ```
- - In the root directory create a `.env` file and add the following env variables
-    ```
+#### 1. Clone the Repository
+
+To get a local copy of this repository, run the following command in your terminal:
+
+```sh
+git clone https://github.com/piyush932/Video-Streaming-App.git
+```
+
+#### 2. Navigate to the Project
+
+Change your working directory to the project folder:
+
+```sh
+cd Video-Streaming-App
+```
+
+#### 3. Install Dependencies
+
+Install the required packages using npm:
+
+```sh
+npm i
+```
+#### 4. API KEY Setup
+
+To fetch YouTube data, you'll need the following `API_KEYS`. Follow these steps to set them up:
+
+1. Obtain a **YouTube API key from Google** by visiting [Google Developers - Getting Started](https://developers.google.com/youtube/v3/getting-started). If you need detailed instructions, you can also refer to [How to Get a YouTube API Key](https://blog.hubspot.com/website/how-to-get-youtube-api-key).
+2. Get a YouTube V3 API key from [Rapid API - YouTube V3](https://rapidapi.com/ytdlfree/api/youtube-v31). If you haven't used Rapid API before, you'll need to sign up after signup subscribe to the **YouTube V3 API** for free.
+
+Once you have your API keys, proceed with the following:
+
+3. Create a `.env` file in the `root` directory of your project.
+4. Place your API key values in the `.env` file as shown below. Note that I've included two Google API keys as backups in case one exceeds its usage limits.
+
+```sh
         VITE_GOOGLE_API=<Your Google Api>
         VITE_YOUTUBE_API =`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatitics&chart=mostPopular&maxResults=50&regionCode=IN&key=${VITE_GOOGLE_API}`
         VITE_YOUTUBE_SEARCH_API ="https://www.googleapis.com/youtube/v3/search?part=snippet&q="
         VITE_BASE_URL = "https://www.googleapis.com/youtube/v3"
-    ```
+```
 
- - To run the client execute
- ```
+
+#### 5. Start the Project
+
+Run the following command to launch the ReactJS project in your local environment:
+
+```sh
  npm run dev
- ```
+```
+
+### Screen Shots
+| ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Laptop(L).png)  | 
+| --- |
+| ![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Laptop.png)     | 
+| ![Screenshot 3](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Lightmode.png)  | 
+| ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SearchPage.png)      | 
+| ![Screenshot 5](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ShimmerUI.png)       | 
+| ![Screenshot 6](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Sidebar.png)         | 
+| ![Screenshot 7](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SignInPage.png)      | 
+| ![Screenshot 8](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Laptop(L).png)  | 
+| ![Screenshot 9](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Laptop.png)  | 
+| ![Screenshot 10](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Laptop.png)  | 
+
+### Mobbile Screen Shots
+| ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(L).png) |![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(M).png) | ![Screenshot 3](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Mobile(S).png) |
+| --- | --- | --- |
+| ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Mobile.png) | ![Screenshot 5](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Mobile(M).png) | ![Screenshot 6](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Sidecontainer-Mobile.png) |
+
+### Tablet Screen Shots
+| ![Screenshot 1](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/Home-Tablet.png) |![Screenshot 2](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/WatchPage-Tablet.png) 
+| --- | --- |
+| ![Screenshot 4](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/ChannelPage-Tablet.png) | ![Screenshot 5](https://github.com/piyush932/Video-Streaming-App/blob/main/screenshots/SearchPage-Tablet)
