@@ -7,6 +7,7 @@ import Loading from "../components/Loading/Loading";
 const SearchResultsPage = () => {
   const { query } = useParams();
   const [videos, setVideos] = useState([]);
+  const [loading, setLoading] = useState(true);
   const API_KEY = import.meta.env.VITE_GOOGLE_API;
   const YOUTUBE_SEARCH_API = `${
     import.meta.env.VITE_YOUTUBE_SEARCH_API
@@ -14,6 +15,7 @@ const SearchResultsPage = () => {
 
   useEffect(() => {
     const fetchSearchResults = async () => {
+      setLoading(true);
       try {
         const response = await fetch(YOUTUBE_SEARCH_API);
         if (!response.ok) {
@@ -23,11 +25,17 @@ const SearchResultsPage = () => {
         setVideos(data.items);
       } catch (error) {
         console.error("Error fetching search results:", error);
+      } finally {
+        setLoading(false);
       }
     };
 
     fetchSearchResults();
   }, [query]);
+
+  if (loading) {
+    return <Loading />;
+  }
 
   return (
     <div className="search-results-container">
@@ -42,7 +50,7 @@ const SearchResultsPage = () => {
             </Link>
           ))
         ) : (
-          <Loading />
+          <p>No results found</p>
         )}
       </div>
     </div>
