@@ -4,9 +4,9 @@ export const parseVideos = (items) => {
         videoTitle: item.snippet.title,
         videoDescription: item.snippet.description,
         videoThumbnail: item.snippet.thumbnails.high?.url || item.snippet.thumbnails.medium?.url,
-        videoDuration: item.contentDetails.duration,
-        videoViews: item.statistics.viewCount,
-        videoLikes: item.statistics.likeCount,
+        videoDuration: item.contentDetails?.duration,
+        videoViews: item.statistics?.viewCount,
+        videoLikes: item.statistics?.likeCount,
         videoAge: item.snippet.publishedAt,
         channelInfo: {
             id: item.snippet.channelId,

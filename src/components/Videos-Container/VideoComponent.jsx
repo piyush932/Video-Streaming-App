@@ -69,8 +69,8 @@ function Videocomponent() {
   ) : (
     <div className="video-component">
       <div className="video-list">
-        {videos.map((item) => (
-          <Link to={`/watch?v=${item.videoId}`} key={item.videoId}>
+        {videos.map((item,id) => (
+          <Link to={`/watch?v=${item?.videoId ?? item?.id?.videoId}`} key={id}>
             <Videocard info={item} />
           </Link>
         ))}

@@ -21,11 +21,11 @@ function Videocard({ info }) {
     <div className="video-container">
       <img alt="thumbnail" src={videoThumbnail} className="thumbnail" />
       <div className="main-title">
-        <img
-          alt="channel-logo"
-          src={channelInfo.image}
-          className="channel-logo"
-        />
+          <img
+            alt="channel-logo"
+            src={channelInfo.image}
+            className="channel-logo"
+          />
         <div className="title-card">
           <h6>{truncateTitle(videoTitle)}</h6>
           <div className="flex video-details">

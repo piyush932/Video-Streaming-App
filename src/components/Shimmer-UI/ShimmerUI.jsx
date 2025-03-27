@@ -2,8 +2,9 @@ import './ShimmerUI.css'
 
 const ShimmerUI = () => {
     return (
-      <div className="shimmer-container">
-        {Array.from({ length: 8 }).map((_, i) => (
+      <div className="shimmer-video-component">
+        <div className='shimmer-video-list'>
+        {Array.from({ length: 16 }).map((_, i) => (
           <div className="shimmer-card" key={i}>
             <div className="shimmer-thumbnail"></div>
             <div className="shimmer-details">
@@ -15,6 +16,7 @@ const ShimmerUI = () => {
             </div>
           </div>
         ))}
+        </div>
       </div>
     );
   };
